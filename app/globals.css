@@ -176,7 +176,7 @@ h1, h2, h3, h4, h5, h6 {
   display: flex; align-items: center; justify-content: center; flex-direction: column; gap: 18px;
   transition: opacity 0.7s var(--ease), visibility 0.7s var(--ease);
 }
-body.loaded #preloader { opacity: 0; visibility: hidden; }
+body.loaded #preloader { opacity: 0; visibility: hidden; pointer-events: none; }
 #preloader .pre-logo { display: block; max-height: 82px; width: auto; }
 #preloader .pre-mark { font-family: var(--font-display); font-size: 15px; letter-spacing: 6px; text-transform: uppercase; color: var(--ink); }
 .loader-bar { width: 180px; height: 1px; background: var(--line); position: relative; overflow: hidden; }
@@ -662,7 +662,7 @@ textarea.f-input { resize: vertical; min-height: 90px; }
 
 /* ===================== PRODUCT DETAIL ===================== */
 .pd-main-image { position: relative; aspect-ratio: 1/1; border-radius: var(--radius); overflow: hidden; background: var(--paper-deep); }
-.pd-main-image img { width: 100%; height: 100%; object-fit: cover; opacity: 0; transition: opacity 0.4s var(--ease); }
+.pd-main-image img { width: 100%; height: 100%; object-fit: contain; opacity: 0; transition: opacity 0.4s var(--ease); }
 .pd-main-image img.is-loaded { opacity: 1; }
 .pd-thumbs { display: flex; gap: 16px; margin-top: 18px; flex-wrap: wrap; }
 .pd-thumb-wrap { text-align: center; }

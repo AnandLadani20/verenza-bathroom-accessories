@@ -23,6 +23,15 @@ export default function ProductGrid({ products }) {
 
   const activeTab = TABS.find((t) => t.key === filter);
 
+  const displayProducts =
+    filter === "soap-dispenser"
+      ? [...products].sort((a, b) => {
+          const aTop = a.series.startsWith("6") ? 0 : 1;
+          const bTop = b.series.startsWith("6") ? 0 : 1;
+          return aTop - bTop;
+        })
+      : products;
+
   return (
     <>
       <div className="filter-tabs">
@@ -37,7 +46,7 @@ export default function ProductGrid({ products }) {
         ))}
       </div>
       <div className="product-grid">
-        {products.map((p) => {
+        {displayProducts.map((p) => {
           const hidden =
             filter !== "all" &&
             (activeTab.collection ? p.collection !== activeTab.collection : p.category !== activeTab.category);

@@ -2467,5 +2467,129 @@
     "pdf": "assets/pdf/products/CL-526.pdf",
     "weight": "0.256 gm",
     "catCode": "kt"
+  },
+    {
+    "id": 65,
+    "name": "Silver Soap Dispenser",
+    "series": "6001",
+    "collection": "Soap Dispenser",
+    "price": "₹230",
+    "priceValue": 230,
+    "category": "Soap Dispenser",
+    "material": "S.S 202",
+    "finish": "Silver",
+    "dimensions": "Height: 7 inch x Body Height: 5 inch x Diameter: 7.5 inch",
+    "features": [
+      "Verenza Soap Dispenser Series",
+      "Series No. 6001",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "6001",
+      "Collection": "Soap Dispenser",
+      "Material": "S.S 202",
+      "MRP": "₹230",
+      "Dimensions": "Height: 7 inch x Body Height: 5 inch x Diameter: 7.5 inch"
+    },
+    "description": "Silver Soap Dispenser from Verenza Soap Dispenser collection. Series 6001. Material: S.S 202. MRP ₹230.",
+    "image": "assets/images/products/6001.jpg",
+    "images": [
+      "assets/images/products/6001.jpg"
+    ],
+    "catCode": "bath"
+  },
+  {
+    "id": 66,
+    "name": "Black Soap Dispenser",
+    "series": "6002",
+    "collection": "Soap Dispenser",
+    "price": "₹230",
+    "priceValue": 230,
+    "category": "Soap Dispenser",
+    "material": "S.S 202",
+    "finish": "Black",
+    "dimensions": "Height: 7 inch x Body Height: 5 inch x Diameter: 7.5 inch",
+    "features": [
+      "Verenza Soap Dispenser Series",
+      "Series No. 6002",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "6002",
+      "Collection": "Soap Dispenser",
+      "Material": "S.S 202",
+      "MRP": "₹230",
+      "Dimensions": "Height: 7 inch x Body Height: 5 inch x Diameter: 7.5 inch"
+    },
+    "description": "Black Soap Dispenser from Verenza Soap Dispenser collection. Series 6002. Material: S.S 202. MRP ₹230.",
+    "image": "assets/images/products/6002.jpg",
+    "images": [
+      "assets/images/products/6002.jpg"
+    ],
+    "catCode": "bath"
+  },
+  {
+    "id": 67,
+    "name": "Gold Soap Dispenser",
+    "series": "6003",
+    "collection": "Soap Dispenser",
+    "price": "₹270",
+    "priceValue": 270,
+    "category": "Soap Dispenser",
+    "material": "S.S 202",
+    "finish": "Gold",
+    "dimensions": "Height: 7 inch x Body Height: 5 inch x Diameter: 7.5 inch",
+    "features": [
+      "Verenza Soap Dispenser Series",
+      "Series No. 6003",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "6003",
+      "Collection": "Soap Dispenser",
+      "Material": "S.S 202",
+      "MRP": "₹270",
+      "Dimensions": "Height: 7 inch x Body Height: 5 inch x Diameter: 7.5 inch"
+    },
+    "description": "Gold Soap Dispenser from Verenza Soap Dispenser collection. Series 6003. Material: S.S 202. MRP ₹270.",
+    "image": "assets/images/products/6003.jpg",
+    "images": [
+      "assets/images/products/6003.jpg"
+    ],
+    "catCode": "bath"
+  },
+  {
+    "id": 68,
+    "name": "Rose Gold Soap Dispenser",
+    "series": "6004",
+    "collection": "Soap Dispenser",
+    "price": "₹270",
+    "priceValue": 270,
+    "category": "Soap Dispenser",
+    "material": "S.S 202",
+    "finish": "Rose Gold",
+    "dimensions": "Height: 7 inch x Body Height: 5 inch x Diameter: 7.5 inch",
+    "features": [
+      "Verenza Soap Dispenser Series",
+      "Series No. 6004",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "6004",
+      "Collection": "Soap Dispenser",
+      "Material": "S.S 202",
+      "MRP": "₹270",
+      "Dimensions": "Height: 7 inch x Body Height: 5 inch x Diameter: 7.5 inch"
+    },
+    "description": "Rose Gold Soap Dispenser from Verenza Soap Dispenser collection. Series 6004. Material: S.S 202. MRP ₹270.",
+    "image": "assets/images/products/6004.jpg",
+    "images": [
+      "assets/images/products/6004.jpg"
+    ],
+    "catCode": "bath"
   }
 ]

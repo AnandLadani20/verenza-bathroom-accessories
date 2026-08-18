@@ -49,12 +49,12 @@ const HERO_SLIDES = [
 ];
 
 const CATEGORIES = [
-  { href: "/products#prime", count: "28 Designs", img: "/products/515.jpg", alt: "Prime Series", title: "Prime", feature: true },
-  { href: "/products#vertex", count: "9 Designs", img: "/products/KV-102.jpg", alt: "Vertex Series", title: "Vertex" },
-  { href: "/products#oval", count: "9 Designs", img: "/products/RE-202.jpg", alt: "Oval Series", title: "Oval" },
-  { href: "/products#orbit", count: "10 Designs", img: "/products/BR-302.jpg", alt: "Orbit Series", title: "Orbit" },
-  { href: "/products#grace", count: "9 Designs", img: "/products/CA-402.jpg", alt: "Grace Series", title: "Grace" },
-  { href: "/products#soap-dispenser", count: "8 Designs", img: "/products/KV-106.jpg", alt: "Soap Dispenser", title: "Soap Dispenser" },
+  { href: "/products#prime", count: "23 Designs", img: "/products/515.jpg", alt: "Prime Series", title: "Prime", feature: true },
+  { href: "/products#vertex", count: "8 Designs", img: "/products/KV-102.jpg", alt: "Vertex Series", title: "Vertex" },
+  { href: "/products#oval", count: "8 Designs", img: "/products/RE-202.jpg", alt: "Oval Series", title: "Oval" },
+  { href: "/products#orbit", count: "9 Designs", img: "/products/BR-302.jpg", alt: "Orbit Series", title: "Orbit" },
+  { href: "/products#grace", count: "8 Designs", img: "/products/CA-402.jpg", alt: "Grace Series", title: "Grace" },
+  { href: "/products#soap-dispenser", count: "4 Designs", img: "/products/6001.jpg", alt: "Soap Dispenser", title: "Soap Dispenser" },
 ];
 
 const MOSAIC = [

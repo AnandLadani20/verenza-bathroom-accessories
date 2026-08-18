@@ -209,8 +209,12 @@ body.loaded #preloader { opacity: 0; visibility: hidden; pointer-events: none; }
 }
 .site-header .container { display: flex; align-items: center; justify-content: space-between; }
 
-.logo img { display: block; max-height: 74px; width: auto; transition: max-height 0.5s var(--ease); }
-.site-header.scrolled .logo img { max-height: 74px; }
+.logo img { display: block; max-height: 64px; width: auto; transition: max-height 0.5s var(--ease); }
+.site-header.scrolled .logo img { max-height: 64px; }
+@media (max-width: 575px) {
+  .logo img { max-height: 42px; }
+  .site-header.scrolled .logo img { max-height: 36px; }
+}
 .logo .logo-white { display: none; }
 .site-header.header--overlay:not(.scrolled) .logo-dark { display: none; }
 .site-header.header--overlay:not(.scrolled) .logo-white { display: block; }
@@ -463,7 +467,7 @@ body.nav-open .nav-overlay { visibility: visible; opacity: 1; }
 }
 
 /* ===================== FEATURED STRIP (swiper) ===================== */
-.strip-swiper { overflow: visible !important; }
+.strip-swiper { overflow: hidden; }
 .strip-swiper .swiper-wrapper { align-items: stretch; }
 .feat-card { display: block; }
 .feat-card .thumb { position: relative; aspect-ratio: 4/5; overflow: hidden; border-radius: var(--radius); background: var(--paper-deep); }

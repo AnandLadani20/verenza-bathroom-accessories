@@ -1,0 +1,2471 @@
+[
+  {
+    "id": 1,
+    "name": "Napkin Holder",
+    "series": "1001",
+    "collection": "Vertex",
+    "price": "₹212",
+    "priceValue": 212,
+    "category": "Napkin Holder",
+    "material": "S.S 202",
+    "finish": "Gloss",
+    "dimensions": "L: 6 inch x W: 5 inch x H: 4 inch",
+    "features": [
+      "Verenza Vertex Series",
+      "Series No. 1001",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "1001",
+      "Collection": "Vertex",
+      "Material": "S.S 202",
+      "MRP": "₹212",
+      "Weight": "0.247 gm",
+      "Dimensions": "L: 6 inch x W: 5 inch x H: 4 inch"
+    },
+    "description": "Napkin Holder from Verenza Vertex collection. Series 1001. Material: S.S 202. MRP ₹212.",
+    "image": "assets/images/products/KV-101.jpg",
+    "images": [
+      "assets/images/products/KV-101.jpg"
+    ],
+    "pdf": "assets/pdf/products/NV-101.pdf",
+    "weight": "0.247 gm",
+    "catCode": "kv"
+  },
+  {
+    "id": 2,
+    "name": "Soap Dish",
+    "series": "1002",
+    "collection": "Vertex",
+    "price": "₹200",
+    "priceValue": 200,
+    "category": "Soap Dish",
+    "material": "S.S 202",
+    "finish": "Gloss",
+    "dimensions": "L: 6 inch x W: 5 inch x H: 4 inch",
+    "features": [
+      "Verenza Vertex Series",
+      "Series No. 1002",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "1002",
+      "Collection": "Vertex",
+      "Material": "S.S 202",
+      "MRP": "₹200",
+      "Weight": "0.175 gm",
+      "Dimensions": "L: 6 inch x W: 5 inch x H: 4 inch"
+    },
+    "description": "Soap Dish from Verenza Vertex collection. Series 1002. Material: S.S 202. MRP ₹200.",
+    "image": "assets/images/products/KV-102.jpg",
+    "images": [
+      "assets/images/products/KV-102.jpg"
+    ],
+    "pdf": "assets/pdf/products/NV-102.pdf",
+    "weight": "0.175 gm",
+    "catCode": "kv"
+  },
+  {
+    "id": 3,
+    "name": "Robe Hook",
+    "series": "1003",
+    "collection": "Vertex",
+    "price": "₹120",
+    "priceValue": 120,
+    "category": "Robe Hook",
+    "material": "S.S 202",
+    "finish": "Gloss",
+    "dimensions": "L: 3.50 inch x W: 2.50 inch x H: 2.50 inch",
+    "features": [
+      "Verenza Vertex Series",
+      "Series No. 1003",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "1003",
+      "Collection": "Vertex",
+      "Material": "S.S 202",
+      "MRP": "₹120",
+      "Weight": "0.75 gm",
+      "Dimensions": "L: 3.50 inch x W: 2.50 inch x H: 2.50 inch"
+    },
+    "description": "Robe Hook from Verenza Vertex collection. Series 1003. Material: S.S 202. MRP ₹120.",
+    "image": "assets/images/products/KV-103.jpg",
+    "images": [
+      "assets/images/products/KV-103.jpg"
+    ],
+    "pdf": "assets/pdf/products/NV-103.pdf",
+    "weight": "0.75 gm",
+    "catCode": "kv"
+  },
+  {
+    "id": 4,
+    "name": "Towel Stand",
+    "series": "1004",
+    "collection": "Vertex",
+    "price": "₹330",
+    "priceValue": 330,
+    "category": "Towel Rod",
+    "material": "S.S 202",
+    "finish": "Gloss",
+    "dimensions": "L: 25 inch x W: 4 inch x H: 3.50 inch",
+    "features": [
+      "Verenza Vertex Series",
+      "Series No. 1004",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "1004",
+      "Collection": "Vertex",
+      "Material": "S.S 202",
+      "MRP": "₹330",
+      "Weight": "0.375 gm",
+      "Dimensions": "L: 25 inch x W: 4 inch x H: 3.50 inch"
+    },
+    "description": "Towel Stand from Verenza Vertex collection. Series 1004. Material: S.S 202. MRP ₹330.",
+    "image": "assets/images/products/KV-104.jpg",
+    "images": [
+      "assets/images/products/KV-104.jpg"
+    ],
+    "pdf": "assets/pdf/products/NV-104.pdf",
+    "weight": "0.375 gm",
+    "catCode": "kv"
+  },
+  {
+    "id": 5,
+    "name": "Tooth Brush Holder",
+    "series": "1005",
+    "collection": "Vertex",
+    "price": "₹260",
+    "priceValue": 260,
+    "category": "Tooth Brush Holder",
+    "material": "S.S 202",
+    "finish": "Gloss",
+    "dimensions": "L: 6 inch x W: 5 inch x H: 4 inch",
+    "features": [
+      "Verenza Vertex Series",
+      "Series No. 1005",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "1005",
+      "Collection": "Vertex",
+      "Material": "S.S 202",
+      "MRP": "₹260",
+      "Weight": "0.190 gm",
+      "Dimensions": "L: 6 inch x W: 5 inch x H: 4 inch"
+    },
+    "description": "Tooth Brush Holder from Verenza Vertex collection. Series 1005. Material: S.S 202. MRP ₹260.",
+    "image": "assets/images/products/KV-105.jpg",
+    "images": [
+      "assets/images/products/KV-105.jpg"
+    ],
+    "pdf": "assets/pdf/products/NV-105.pdf",
+    "weight": "0.190 gm",
+    "catCode": "kv"
+  },
+  {
+    "id": 6,
+    "name": "Liquid Dispenser",
+    "series": "1006",
+    "collection": "Vertex",
+    "price": "₹350",
+    "priceValue": 350,
+    "category": "Soap Dispenser",
+    "material": "S.S 202",
+    "finish": "Gloss",
+    "dimensions": "L: 6 inch x W: 5 inch x H: 4 inch",
+    "features": [
+      "Verenza Vertex Series",
+      "Series No. 1006",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "1006",
+      "Collection": "Vertex",
+      "Material": "S.S 202",
+      "MRP": "₹350",
+      "Weight": "0.195 gm",
+      "Dimensions": "L: 6 inch x W: 5 inch x H: 4 inch"
+    },
+    "description": "Liquid Dispenser from Verenza Vertex collection. Series 1006. Material: S.S 202. MRP ₹350.",
+    "image": "assets/images/products/KV-106.jpg",
+    "images": [
+      "assets/images/products/KV-106.jpg"
+    ],
+    "pdf": "assets/pdf/products/NV-106.pdf",
+    "weight": "0.195 gm",
+    "catCode": "kv"
+  },
+  {
+    "id": 7,
+    "name": "Soap Dish With Tooth Brush Holder",
+    "series": "1007",
+    "collection": "Vertex",
+    "price": "₹360",
+    "priceValue": 360,
+    "category": "Soap Dish",
+    "material": "S.S 202",
+    "finish": "Gloss",
+    "dimensions": "L: 9.50 inch x W: 5.50 inch x H: 4 inch",
+    "features": [
+      "Verenza Vertex Series",
+      "Series No. 1007",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "1007",
+      "Collection": "Vertex",
+      "Material": "S.S 202",
+      "MRP": "₹360",
+      "Weight": "0.331 gm",
+      "Dimensions": "L: 9.50 inch x W: 5.50 inch x H: 4 inch"
+    },
+    "description": "Soap Dish With Tooth Brush Holder from Verenza Vertex collection. Series 1007. Material: S.S 202. MRP ₹360.",
+    "image": "assets/images/products/KV-107.jpg",
+    "images": [
+      "assets/images/products/KV-107.jpg"
+    ],
+    "pdf": "assets/pdf/products/NV-107.pdf",
+    "weight": "0.331 gm",
+    "catCode": "kv"
+  },
+  {
+    "id": 8,
+    "name": "Double Soap Dish",
+    "series": "1008",
+    "collection": "Vertex",
+    "price": "₹290",
+    "priceValue": 290,
+    "category": "Soap Dish",
+    "material": "S.S 202",
+    "finish": "Gloss",
+    "dimensions": "L: 9.50 inch x W: 5.50 inch x H: 4 inch",
+    "features": [
+      "Verenza Vertex Series",
+      "Series No. 1008",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "1008",
+      "Collection": "Vertex",
+      "Material": "S.S 202",
+      "MRP": "₹290",
+      "Weight": "0.215 gm",
+      "Dimensions": "L: 9.50 inch x W: 5.50 inch x H: 4 inch"
+    },
+    "description": "Double Soap Dish from Verenza Vertex collection. Series 1008. Material: S.S 202. MRP ₹290.",
+    "image": "assets/images/products/KV-108.jpg",
+    "images": [
+      "assets/images/products/KV-108.jpg"
+    ],
+    "pdf": "assets/pdf/products/NV-108.pdf",
+    "weight": "0.215 gm",
+    "catCode": "kv"
+  },
+  {
+    "id": 9,
+    "name": "Towel Rack",
+    "series": "1009",
+    "collection": "Vertex",
+    "price": "₹836",
+    "priceValue": 836,
+    "category": "Towel Rod",
+    "material": "S.S 202",
+    "finish": "Gloss",
+    "dimensions": "L: 25.5 inch x W: 10 inch x H: 5 inch",
+    "features": [
+      "Verenza Vertex Series",
+      "Series No. 1009",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "1009",
+      "Collection": "Vertex",
+      "Material": "S.S 202",
+      "MRP": "₹836",
+      "Weight": "1 kg 0.95 gm",
+      "Dimensions": "L: 25.5 inch x W: 10 inch x H: 5 inch"
+    },
+    "description": "Towel Rack from Verenza Vertex collection. Series 1009. Material: S.S 202. MRP ₹836.",
+    "image": "assets/images/products/KV-109.jpg",
+    "images": [
+      "assets/images/products/KV-109.jpg"
+    ],
+    "pdf": "assets/pdf/products/NV-109.pdf",
+    "weight": "1 kg 0.95 gm",
+    "catCode": "kv"
+  },
+  {
+    "id": 10,
+    "name": "Napkin Holder",
+    "series": "2001",
+    "collection": "Oval",
+    "price": "₹230",
+    "priceValue": 230,
+    "category": "Napkin Holder",
+    "material": "S.S 202",
+    "finish": "Gloss",
+    "dimensions": "L: 9.50 inch x W: 5.50 inch x H: 4 inch",
+    "features": [
+      "Verenza Oval Series",
+      "Series No. 2001",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "2001",
+      "Collection": "Oval",
+      "Material": "S.S 202",
+      "MRP": "₹230",
+      "Weight": "0.317 gm",
+      "Dimensions": "L: 9.50 inch x W: 5.50 inch x H: 4 inch"
+    },
+    "description": "Napkin Holder from Verenza Oval collection. Series 2001. Material: S.S 202. MRP ₹230.",
+    "image": "assets/images/products/RE-201.jpg",
+    "images": [
+      "assets/images/products/RE-201.jpg"
+    ],
+    "pdf": "assets/pdf/products/LM-201.pdf",
+    "weight": "0.317 gm",
+    "catCode": "re"
+  },
+  {
+    "id": 11,
+    "name": "Soap Dish",
+    "series": "2002",
+    "collection": "Oval",
+    "price": "₹236",
+    "priceValue": 236,
+    "category": "Soap Dish",
+    "material": "S.S 202",
+    "finish": "Gloss",
+    "dimensions": "L: 6 inch x W: 5 inch x H: 4 inch",
+    "features": [
+      "Verenza Oval Series",
+      "Series No. 2002",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "2002",
+      "Collection": "Oval",
+      "Material": "S.S 202",
+      "MRP": "₹236",
+      "Weight": "0.171 gm",
+      "Dimensions": "L: 6 inch x W: 5 inch x H: 4 inch"
+    },
+    "description": "Soap Dish from Verenza Oval collection. Series 2002. Material: S.S 202. MRP ₹236.",
+    "image": "assets/images/products/RE-202.jpg",
+    "images": [
+      "assets/images/products/RE-202.jpg"
+    ],
+    "pdf": "assets/pdf/products/LM-202.pdf",
+    "weight": "0.171 gm",
+    "catCode": "re"
+  },
+  {
+    "id": 12,
+    "name": "Robe Hook",
+    "series": "2003",
+    "collection": "Oval",
+    "price": "₹128",
+    "priceValue": 128,
+    "category": "Robe Hook",
+    "material": "S.S 202",
+    "finish": "Gloss",
+    "dimensions": "L: 3.50 inch x W: 2.50 inch x H: 2.50 inch",
+    "features": [
+      "Verenza Oval Series",
+      "Series No. 2003",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "2003",
+      "Collection": "Oval",
+      "Material": "S.S 202",
+      "MRP": "₹128",
+      "Weight": "0.65 gm",
+      "Dimensions": "L: 3.50 inch x W: 2.50 inch x H: 2.50 inch"
+    },
+    "description": "Robe Hook from Verenza Oval collection. Series 2003. Material: S.S 202. MRP ₹128.",
+    "image": "assets/images/products/RE-203.jpg",
+    "images": [
+      "assets/images/products/RE-203.jpg"
+    ],
+    "pdf": "assets/pdf/products/LM-203.pdf",
+    "weight": "0.65 gm",
+    "catCode": "re"
+  },
+  {
+    "id": 13,
+    "name": "Towel Stand",
+    "series": "2004",
+    "collection": "Oval",
+    "price": "₹340",
+    "priceValue": 340,
+    "category": "Towel Rod",
+    "material": "S.S 202",
+    "finish": "Gloss",
+    "dimensions": "L: 25 inch x W: 4 inch x H: 3.50 inch",
+    "features": [
+      "Verenza Oval Series",
+      "Series No. 2004",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "2004",
+      "Collection": "Oval",
+      "Material": "S.S 202",
+      "MRP": "₹340",
+      "Weight": "0.417 gm",
+      "Dimensions": "L: 25 inch x W: 4 inch x H: 3.50 inch"
+    },
+    "description": "Towel Stand from Verenza Oval collection. Series 2004. Material: S.S 202. MRP ₹340.",
+    "image": "assets/images/products/RE-204.jpg",
+    "images": [
+      "assets/images/products/RE-204.jpg"
+    ],
+    "pdf": "assets/pdf/products/LM-204.pdf",
+    "weight": "0.417 gm",
+    "catCode": "re"
+  },
+  {
+    "id": 14,
+    "name": "Tooth Brush Holder",
+    "series": "2005",
+    "collection": "Oval",
+    "price": "₹310",
+    "priceValue": 310,
+    "category": "Tooth Brush Holder",
+    "material": "S.S 202",
+    "finish": "Gloss",
+    "dimensions": "L: 6 inch x W: 5 inch x H: 4 inch",
+    "features": [
+      "Verenza Oval Series",
+      "Series No. 2005",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "2005",
+      "Collection": "Oval",
+      "Material": "S.S 202",
+      "MRP": "₹310",
+      "Weight": "0.191 gm",
+      "Dimensions": "L: 6 inch x W: 5 inch x H: 4 inch"
+    },
+    "description": "Tooth Brush Holder from Verenza Oval collection. Series 2005. Material: S.S 202. MRP ₹310.",
+    "image": "assets/images/products/RE-205.jpg",
+    "images": [
+      "assets/images/products/RE-205.jpg"
+    ],
+    "pdf": "assets/pdf/products/LM-205.pdf",
+    "weight": "0.191 gm",
+    "catCode": "re"
+  },
+  {
+    "id": 15,
+    "name": "Liquid Dispenser",
+    "series": "2006",
+    "collection": "Oval",
+    "price": "₹376",
+    "priceValue": 376,
+    "category": "Soap Dispenser",
+    "material": "S.S 202",
+    "finish": "Gloss",
+    "dimensions": "L: 6 inch x W: 5 inch x H: 4 inch",
+    "features": [
+      "Verenza Oval Series",
+      "Series No. 2006",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "2006",
+      "Collection": "Oval",
+      "Material": "S.S 202",
+      "MRP": "₹376",
+      "Weight": "0.190 gm",
+      "Dimensions": "L: 6 inch x W: 5 inch x H: 4 inch"
+    },
+    "description": "Liquid Dispenser from Verenza Oval collection. Series 2006. Material: S.S 202. MRP ₹376.",
+    "image": "assets/images/products/RE-206.jpg",
+    "images": [
+      "assets/images/products/RE-206.jpg"
+    ],
+    "pdf": "assets/pdf/products/LM-206.pdf",
+    "weight": "0.190 gm",
+    "catCode": "re"
+  },
+  {
+    "id": 16,
+    "name": "Soap Dish With Tooth Brush Holder",
+    "series": "2007",
+    "collection": "Oval",
+    "price": "₹380",
+    "priceValue": 380,
+    "category": "Soap Dish",
+    "material": "S.S 202",
+    "finish": "Gloss",
+    "dimensions": "L: 9.50 inch x W: 5.50 inch x H: 4 inch",
+    "features": [
+      "Verenza Oval Series",
+      "Series No. 2007",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "2007",
+      "Collection": "Oval",
+      "Material": "S.S 202",
+      "MRP": "₹380",
+      "Weight": "0.351 gm",
+      "Dimensions": "L: 9.50 inch x W: 5.50 inch x H: 4 inch"
+    },
+    "description": "Soap Dish With Tooth Brush Holder from Verenza Oval collection. Series 2007. Material: S.S 202. MRP ₹380.",
+    "image": "assets/images/products/RE-207.jpg",
+    "images": [
+      "assets/images/products/RE-207.jpg"
+    ],
+    "pdf": "assets/pdf/products/LM-207.pdf",
+    "weight": "0.351 gm",
+    "catCode": "re"
+  },
+  {
+    "id": 17,
+    "name": "Double Soap Dish",
+    "series": "2008",
+    "collection": "Oval",
+    "price": "₹306",
+    "priceValue": 306,
+    "category": "Soap Dish",
+    "material": "S.S 202",
+    "finish": "Gloss",
+    "dimensions": "L: 9.50 inch x W: 5.50 inch x H: 4 inch",
+    "features": [
+      "Verenza Oval Series",
+      "Series No. 2008",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "2008",
+      "Collection": "Oval",
+      "Material": "S.S 202",
+      "MRP": "₹306",
+      "Weight": "0.329 gm",
+      "Dimensions": "L: 9.50 inch x W: 5.50 inch x H: 4 inch"
+    },
+    "description": "Double Soap Dish from Verenza Oval collection. Series 2008. Material: S.S 202. MRP ₹306.",
+    "image": "assets/images/products/RE-208.jpg",
+    "images": [
+      "assets/images/products/RE-208.jpg"
+    ],
+    "pdf": "assets/pdf/products/LM-208.pdf",
+    "weight": "0.329 gm",
+    "catCode": "re"
+  },
+  {
+    "id": 18,
+    "name": "Towel Rack",
+    "series": "2009",
+    "collection": "Oval",
+    "price": "₹800",
+    "priceValue": 800,
+    "category": "Towel Rod",
+    "material": "S.S 202",
+    "finish": "Gloss",
+    "dimensions": "L: 25.5 inch x W: 10 inch x H: 5 inch",
+    "features": [
+      "Verenza Oval Series",
+      "Series No. 2009",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "2009",
+      "Collection": "Oval",
+      "Material": "S.S 202",
+      "MRP": "₹800",
+      "Weight": "0.715 gm",
+      "Dimensions": "L: 25.5 inch x W: 10 inch x H: 5 inch"
+    },
+    "description": "Towel Rack from Verenza Oval collection. Series 2009. Material: S.S 202. MRP ₹800.",
+    "image": "assets/images/products/RE-209.jpg",
+    "images": [
+      "assets/images/products/RE-209.jpg"
+    ],
+    "pdf": "assets/pdf/products/LM-209.pdf",
+    "weight": "0.715 gm",
+    "catCode": "re"
+  },
+  {
+    "id": 19,
+    "name": "Napkin Holder",
+    "series": "3001",
+    "collection": "Orbit",
+    "price": "₹270",
+    "priceValue": 270,
+    "category": "Napkin Holder",
+    "material": "S.S 202",
+    "finish": "Gloss",
+    "dimensions": "L: 9.75 inch x W: 5.50 inch x H: 5 inch",
+    "features": [
+      "Verenza Orbit Series",
+      "Series No. 3001",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "3001",
+      "Collection": "Orbit",
+      "Material": "S.S 202",
+      "MRP": "₹270",
+      "Weight": "0.213 gm",
+      "Dimensions": "L: 9.75 inch x W: 5.50 inch x H: 5 inch"
+    },
+    "description": "Napkin Holder from Verenza Orbit collection. Series 3001. Material: S.S 202. MRP ₹270.",
+    "image": "assets/images/products/BR-301.jpg",
+    "images": [
+      "assets/images/products/BR-301.jpg"
+    ],
+    "pdf": "assets/pdf/products/CS-301.pdf",
+    "weight": "0.213 gm",
+    "catCode": "br"
+  },
+  {
+    "id": 20,
+    "name": "Soap Dish",
+    "series": "3002",
+    "collection": "Orbit",
+    "price": "₹256",
+    "priceValue": 256,
+    "category": "Soap Dish",
+    "material": "S.S 202",
+    "finish": "Gloss",
+    "dimensions": "L: 6 inch x W: 5.50 inch x H: 5 inch",
+    "features": [
+      "Verenza Orbit Series",
+      "Series No. 3002",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "3002",
+      "Collection": "Orbit",
+      "Material": "S.S 202",
+      "MRP": "₹256",
+      "Weight": "0.196 gm",
+      "Dimensions": "L: 6 inch x W: 5.50 inch x H: 5 inch"
+    },
+    "description": "Soap Dish from Verenza Orbit collection. Series 3002. Material: S.S 202. MRP ₹256.",
+    "image": "assets/images/products/BR-302.jpg",
+    "images": [
+      "assets/images/products/BR-302.jpg"
+    ],
+    "pdf": "assets/pdf/products/CS-302.pdf",
+    "weight": "0.196 gm",
+    "catCode": "br"
+  },
+  {
+    "id": 21,
+    "name": "Robe Hook",
+    "series": "3003",
+    "collection": "Orbit",
+    "price": "₹190",
+    "priceValue": 190,
+    "category": "Robe Hook",
+    "material": "S.S 202",
+    "finish": "Gloss",
+    "dimensions": "L: 4.50 inch x W: 4 inch x H: 2.15 inch",
+    "features": [
+      "Verenza Orbit Series",
+      "Series No. 3003",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "3003",
+      "Collection": "Orbit",
+      "Material": "S.S 202",
+      "MRP": "₹190",
+      "Weight": "0.120 gm",
+      "Dimensions": "L: 4.50 inch x W: 4 inch x H: 2.15 inch"
+    },
+    "description": "Robe Hook from Verenza Orbit collection. Series 3003. Material: S.S 202. MRP ₹190.",
+    "image": "assets/images/products/BR-303.jpg",
+    "images": [
+      "assets/images/products/BR-303.jpg"
+    ],
+    "pdf": "assets/pdf/products/CS-303.pdf",
+    "weight": "0.120 gm",
+    "catCode": "br"
+  },
+  {
+    "id": 22,
+    "name": "Towel Stand",
+    "series": "3004",
+    "collection": "Orbit",
+    "price": "₹420",
+    "priceValue": 420,
+    "category": "Towel Rod",
+    "material": "S.S 202",
+    "finish": "Gloss",
+    "dimensions": "L: 25.50 inch x W: 4.75 inch x H: 3.75 inch",
+    "features": [
+      "Verenza Orbit Series",
+      "Series No. 3004",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "3004",
+      "Collection": "Orbit",
+      "Material": "S.S 202",
+      "MRP": "₹420",
+      "Weight": "0.360 gm",
+      "Dimensions": "L: 25.50 inch x W: 4.75 inch x H: 3.75 inch"
+    },
+    "description": "Towel Stand from Verenza Orbit collection. Series 3004. Material: S.S 202. MRP ₹420.",
+    "image": "assets/images/products/BR-304.jpg",
+    "images": [
+      "assets/images/products/BR-304.jpg"
+    ],
+    "pdf": "assets/pdf/products/CS-304.pdf",
+    "weight": "0.360 gm",
+    "catCode": "br"
+  },
+  {
+    "id": 23,
+    "name": "Tooth Brush Holder",
+    "series": "3005",
+    "collection": "Orbit",
+    "price": "₹336",
+    "priceValue": 336,
+    "category": "Tooth Brush Holder",
+    "material": "S.S 202",
+    "finish": "Gloss",
+    "dimensions": "L: 6 inch x W: 5.50 inch x H: 5 inch",
+    "features": [
+      "Verenza Orbit Series",
+      "Series No. 3005",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "3005",
+      "Collection": "Orbit",
+      "Material": "S.S 202",
+      "MRP": "₹336",
+      "Weight": "0.285 gm",
+      "Dimensions": "L: 6 inch x W: 5.50 inch x H: 5 inch"
+    },
+    "description": "Tooth Brush Holder from Verenza Orbit collection. Series 3005. Material: S.S 202. MRP ₹336.",
+    "image": "assets/images/products/BR-305.jpg",
+    "images": [
+      "assets/images/products/BR-305.jpg"
+    ],
+    "pdf": "assets/pdf/products/CS-305.pdf",
+    "weight": "0.285 gm",
+    "catCode": "br"
+  },
+  {
+    "id": 24,
+    "name": "Liquid Dispenser",
+    "series": "3006",
+    "collection": "Orbit",
+    "price": "₹410",
+    "priceValue": 410,
+    "category": "Soap Dispenser",
+    "material": "S.S 202",
+    "finish": "Gloss",
+    "dimensions": "L: 6 inch x W: 5.50 inch x H: 5 inch",
+    "features": [
+      "Verenza Orbit Series",
+      "Series No. 3006",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "3006",
+      "Collection": "Orbit",
+      "Material": "S.S 202",
+      "MRP": "₹410",
+      "Weight": "0.340 gm",
+      "Dimensions": "L: 6 inch x W: 5.50 inch x H: 5 inch"
+    },
+    "description": "Liquid Dispenser from Verenza Orbit collection. Series 3006. Material: S.S 202. MRP ₹410.",
+    "image": "assets/images/products/BR-306.jpg",
+    "images": [
+      "assets/images/products/BR-306.jpg"
+    ],
+    "pdf": "assets/pdf/products/CS-306.pdf",
+    "weight": "0.340 gm",
+    "catCode": "br"
+  },
+  {
+    "id": 25,
+    "name": "Soap Dish With Tooth Brush Holder",
+    "series": "3007",
+    "collection": "Orbit",
+    "price": "₹440",
+    "priceValue": 440,
+    "category": "Soap Dish",
+    "material": "S.S 202",
+    "finish": "Gloss",
+    "dimensions": "L: 9.75 inch x W: 5.50 inch x H: 5 inch",
+    "features": [
+      "Verenza Orbit Series",
+      "Series No. 3007",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "3007",
+      "Collection": "Orbit",
+      "Material": "S.S 202",
+      "MRP": "₹440",
+      "Weight": "0.465 gm",
+      "Dimensions": "L: 9.75 inch x W: 5.50 inch x H: 5 inch"
+    },
+    "description": "Soap Dish With Tooth Brush Holder from Verenza Orbit collection. Series 3007. Material: S.S 202. MRP ₹440.",
+    "image": "assets/images/products/BR-307.jpg",
+    "images": [
+      "assets/images/products/BR-307.jpg"
+    ],
+    "pdf": "assets/pdf/products/CS-307.pdf",
+    "weight": "0.465 gm",
+    "catCode": "br"
+  },
+  {
+    "id": 26,
+    "name": "Double Soap Dish",
+    "series": "3008",
+    "collection": "Orbit",
+    "price": "₹423",
+    "priceValue": 423,
+    "category": "Soap Dish",
+    "material": "S.S 202",
+    "finish": "Gloss",
+    "dimensions": "L: 9.75 inch x W: 5.50 inch x H: 5 inch",
+    "features": [
+      "Verenza Orbit Series",
+      "Series No. 3008",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "3008",
+      "Collection": "Orbit",
+      "Material": "S.S 202",
+      "MRP": "₹423",
+      "Weight": "0.378 gm",
+      "Dimensions": "L: 9.75 inch x W: 5.50 inch x H: 5 inch"
+    },
+    "description": "Double Soap Dish from Verenza Orbit collection. Series 3008. Material: S.S 202. MRP ₹423.",
+    "image": "assets/images/products/BR-308.jpg",
+    "images": [
+      "assets/images/products/BR-308.jpg"
+    ],
+    "pdf": "assets/pdf/products/CS-308.pdf",
+    "weight": "0.378 gm",
+    "catCode": "br"
+  },
+  {
+    "id": 27,
+    "name": "Towel Rack",
+    "series": "3009",
+    "collection": "Orbit",
+    "price": "₹910",
+    "priceValue": 910,
+    "category": "Towel Rod",
+    "material": "S.S 202",
+    "finish": "Gloss",
+    "dimensions": "L: 25.5 inch x W: 10 inch x H: 5 inch",
+    "features": [
+      "Verenza Orbit Series",
+      "Series No. 3009",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "3009",
+      "Collection": "Orbit",
+      "Material": "S.S 202",
+      "MRP": "₹910",
+      "Weight": "1 kg 0.150 gm",
+      "Dimensions": "L: 25.5 inch x W: 10 inch x H: 5 inch"
+    },
+    "description": "Towel Rack from Verenza Orbit collection. Series 3009. Material: S.S 202. MRP ₹910.",
+    "image": "assets/images/products/BR-309.jpg",
+    "images": [
+      "assets/images/products/BR-309.jpg"
+    ],
+    "pdf": "assets/pdf/products/CS-309.pdf",
+    "weight": "1 kg 0.150 gm",
+    "catCode": "br"
+  },
+  {
+    "id": 28,
+    "name": "Soap Dish With Tooth Brush Holder & Liquid Dispenser",
+    "series": "3010",
+    "collection": "Orbit",
+    "price": "₹720",
+    "priceValue": 720,
+    "category": "Soap Dish",
+    "material": "S.S 202",
+    "finish": "Gloss",
+    "dimensions": "As per catalogue",
+    "features": [
+      "Verenza Orbit Series",
+      "Series No. 3010",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "3010",
+      "Collection": "Orbit",
+      "Material": "S.S 202",
+      "MRP": "₹720",
+      "Weight": "0.785 gm"
+    },
+    "description": "Soap Dish With Tooth Brush Holder & Liquid Dispenser from Verenza Orbit collection. Series 3010. Material: S.S 202. MRP ₹720.",
+    "image": "assets/images/products/BR-310.jpg",
+    "images": [
+      "assets/images/products/BR-310.jpg"
+    ],
+    "pdf": "assets/pdf/products/CS-310.pdf",
+    "weight": "0.785 gm",
+    "catCode": "br"
+  },
+  {
+    "id": 29,
+    "name": "Napkin Holder",
+    "series": "4001",
+    "collection": "Grace",
+    "price": "₹220",
+    "priceValue": 220,
+    "category": "Napkin Holder",
+    "material": "S.S 202",
+    "finish": "Gloss",
+    "dimensions": "L: 6 inch x W: 5 inch x H: 4 inch",
+    "features": [
+      "Verenza Grace Series",
+      "Series No. 4001",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "4001",
+      "Collection": "Grace",
+      "Material": "S.S 202",
+      "MRP": "₹220",
+      "Weight": "0.320 gm",
+      "Dimensions": "L: 6 inch x W: 5 inch x H: 4 inch"
+    },
+    "description": "Napkin Holder from Verenza Grace collection. Series 4001. Material: S.S 202. MRP ₹220.",
+    "image": "assets/images/products/CA-401.jpg",
+    "images": [
+      "assets/images/products/CA-401.jpg"
+    ],
+    "pdf": "assets/pdf/products/ND-401.pdf",
+    "weight": "0.320 gm",
+    "catCode": "ca"
+  },
+  {
+    "id": 30,
+    "name": "Soap Dish",
+    "series": "4002",
+    "collection": "Grace",
+    "price": "₹225",
+    "priceValue": 225,
+    "category": "Soap Dish",
+    "material": "S.S 202",
+    "finish": "Gloss",
+    "dimensions": "L: 6 inch x W: 5 inch x H: 4 inch",
+    "features": [
+      "Verenza Grace Series",
+      "Series No. 4002",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "4002",
+      "Collection": "Grace",
+      "Material": "S.S 202",
+      "MRP": "₹225",
+      "Weight": "0.186 gm",
+      "Dimensions": "L: 6 inch x W: 5 inch x H: 4 inch"
+    },
+    "description": "Soap Dish from Verenza Grace collection. Series 4002. Material: S.S 202. MRP ₹225.",
+    "image": "assets/images/products/CA-402.jpg",
+    "images": [
+      "assets/images/products/CA-402.jpg"
+    ],
+    "pdf": "assets/pdf/products/ND-402.pdf",
+    "weight": "0.186 gm",
+    "catCode": "ca"
+  },
+  {
+    "id": 31,
+    "name": "Robe Hook",
+    "series": "4003",
+    "collection": "Grace",
+    "price": "₹125",
+    "priceValue": 125,
+    "category": "Robe Hook",
+    "material": "S.S 202",
+    "finish": "Gloss",
+    "dimensions": "L: 3.50 inch x W: 2.50 inch x H: 2.50 inch",
+    "features": [
+      "Verenza Grace Series",
+      "Series No. 4003",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "4003",
+      "Collection": "Grace",
+      "Material": "S.S 202",
+      "MRP": "₹125",
+      "Weight": "0.85 gm",
+      "Dimensions": "L: 3.50 inch x W: 2.50 inch x H: 2.50 inch"
+    },
+    "description": "Robe Hook from Verenza Grace collection. Series 4003. Material: S.S 202. MRP ₹125.",
+    "image": "assets/images/products/CA-403.jpg",
+    "images": [
+      "assets/images/products/CA-403.jpg"
+    ],
+    "pdf": "assets/pdf/products/ND-403.pdf",
+    "weight": "0.85 gm",
+    "catCode": "ca"
+  },
+  {
+    "id": 32,
+    "name": "Towel Stand",
+    "series": "4004",
+    "collection": "Grace",
+    "price": "₹440",
+    "priceValue": 440,
+    "category": "Towel Rod",
+    "material": "S.S 202",
+    "finish": "Gloss",
+    "dimensions": "L: 25 inch x W: 4 inch x H: 3.50 inch",
+    "features": [
+      "Verenza Grace Series",
+      "Series No. 4004",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "4004",
+      "Collection": "Grace",
+      "Material": "S.S 202",
+      "MRP": "₹440",
+      "Weight": "0.450 gm",
+      "Dimensions": "L: 25 inch x W: 4 inch x H: 3.50 inch"
+    },
+    "description": "Towel Stand from Verenza Grace collection. Series 4004. Material: S.S 202. MRP ₹440.",
+    "image": "assets/images/products/CA-404.jpg",
+    "images": [
+      "assets/images/products/CA-404.jpg"
+    ],
+    "pdf": "assets/pdf/products/ND-404.pdf",
+    "weight": "0.450 gm",
+    "catCode": "ca"
+  },
+  {
+    "id": 33,
+    "name": "Tooth Brush Holder",
+    "series": "4005",
+    "collection": "Grace",
+    "price": "₹345",
+    "priceValue": 345,
+    "category": "Tooth Brush Holder",
+    "material": "S.S 202",
+    "finish": "Gloss",
+    "dimensions": "L: 6 inch x W: 5 inch x H: 4 inch",
+    "features": [
+      "Verenza Grace Series",
+      "Series No. 4005",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "4005",
+      "Collection": "Grace",
+      "Material": "S.S 202",
+      "MRP": "₹345",
+      "Weight": "0.276 gm",
+      "Dimensions": "L: 6 inch x W: 5 inch x H: 4 inch"
+    },
+    "description": "Tooth Brush Holder from Verenza Grace collection. Series 4005. Material: S.S 202. MRP ₹345.",
+    "image": "assets/images/products/CA-405.jpg",
+    "images": [
+      "assets/images/products/CA-405.jpg"
+    ],
+    "pdf": "assets/pdf/products/ND-405.pdf",
+    "weight": "0.276 gm",
+    "catCode": "ca"
+  },
+  {
+    "id": 34,
+    "name": "Liquid Dispenser",
+    "series": "4006",
+    "collection": "Grace",
+    "price": "₹475",
+    "priceValue": 475,
+    "category": "Soap Dispenser",
+    "material": "S.S 202",
+    "finish": "Gloss",
+    "dimensions": "L: 6 inch x W: 5 inch x H: 4 inch",
+    "features": [
+      "Verenza Grace Series",
+      "Series No. 4006",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "4006",
+      "Collection": "Grace",
+      "Material": "S.S 202",
+      "MRP": "₹475",
+      "Weight": "0.315 gm",
+      "Dimensions": "L: 6 inch x W: 5 inch x H: 4 inch"
+    },
+    "description": "Liquid Dispenser from Verenza Grace collection. Series 4006. Material: S.S 202. MRP ₹475.",
+    "image": "assets/images/products/CA-406.jpg",
+    "images": [
+      "assets/images/products/CA-406.jpg"
+    ],
+    "pdf": "assets/pdf/products/ND-406.pdf",
+    "weight": "0.315 gm",
+    "catCode": "ca"
+  },
+  {
+    "id": 35,
+    "name": "Soap Dish With Tooth Brush Holder",
+    "series": "4007",
+    "collection": "Grace",
+    "price": "₹480",
+    "priceValue": 480,
+    "category": "Soap Dish",
+    "material": "S.S 202",
+    "finish": "Gloss",
+    "dimensions": "L: 9.50 inch x W: 5.50 inch x H: 4 inch",
+    "features": [
+      "Verenza Grace Series",
+      "Series No. 4007",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "4007",
+      "Collection": "Grace",
+      "Material": "S.S 202",
+      "MRP": "₹480",
+      "Weight": "0.428 gm",
+      "Dimensions": "L: 9.50 inch x W: 5.50 inch x H: 4 inch"
+    },
+    "description": "Soap Dish With Tooth Brush Holder from Verenza Grace collection. Series 4007. Material: S.S 202. MRP ₹480.",
+    "image": "assets/images/products/CA-407.jpg",
+    "images": [
+      "assets/images/products/CA-407.jpg"
+    ],
+    "pdf": "assets/pdf/products/ND-407.pdf",
+    "weight": "0.428 gm",
+    "catCode": "ca"
+  },
+  {
+    "id": 36,
+    "name": "Double Soap Dish",
+    "series": "4008",
+    "collection": "Grace",
+    "price": "₹345",
+    "priceValue": 345,
+    "category": "Soap Dish",
+    "material": "S.S 202",
+    "finish": "Gloss",
+    "dimensions": "L: 9.50 inch x W: 5.50 inch x H: 4 inch",
+    "features": [
+      "Verenza Grace Series",
+      "Series No. 4008",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "4008",
+      "Collection": "Grace",
+      "Material": "S.S 202",
+      "MRP": "₹345",
+      "Weight": "0.331 gm",
+      "Dimensions": "L: 9.50 inch x W: 5.50 inch x H: 4 inch"
+    },
+    "description": "Double Soap Dish from Verenza Grace collection. Series 4008. Material: S.S 202. MRP ₹345.",
+    "image": "assets/images/products/CA-408.jpg",
+    "images": [
+      "assets/images/products/CA-408.jpg"
+    ],
+    "pdf": "assets/pdf/products/ND-408.pdf",
+    "weight": "0.331 gm",
+    "catCode": "ca"
+  },
+  {
+    "id": 37,
+    "name": "Towel Rack",
+    "series": "4009",
+    "collection": "Grace",
+    "price": "₹790",
+    "priceValue": 790,
+    "category": "Towel Rod",
+    "material": "S.S 202",
+    "finish": "Gloss",
+    "dimensions": "L: 25.5 inch x W: 10 inch x H: 5 inch",
+    "features": [
+      "Verenza Grace Series",
+      "Series No. 4009",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "4009",
+      "Collection": "Grace",
+      "Material": "S.S 202",
+      "MRP": "₹790",
+      "Weight": "0.720 gm",
+      "Dimensions": "L: 25.5 inch x W: 10 inch x H: 5 inch"
+    },
+    "description": "Towel Rack from Verenza Grace collection. Series 4009. Material: S.S 202. MRP ₹790.",
+    "image": "assets/images/products/CA-409.jpg",
+    "images": [
+      "assets/images/products/CA-409.jpg"
+    ],
+    "pdf": "assets/pdf/products/ND-409.pdf",
+    "weight": "0.720 gm",
+    "catCode": "ca"
+  },
+  {
+    "id": 38,
+    "name": "Soap Dish With Tooth Brush Holder",
+    "series": "5001",
+    "collection": "Prime",
+    "price": "₹347 (Gloss) | ₹400 (Rose Gold/Black)",
+    "priceValue": 347,
+    "category": "Soap Dish",
+    "material": "S.S 202",
+    "finish": "Gloss / Rose Gold / Black (as per model)",
+    "dimensions": "L: 9 inch x W: 5.50 inch x H: 4.50 inch",
+    "features": [
+      "Verenza Prime Series",
+      "Series No. 5001",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "5001",
+      "Collection": "Prime",
+      "Material": "S.S 202",
+      "MRP": "₹347 (Gloss) | ₹400 (Rose Gold/Black)",
+      "Weight": "0.307 gm",
+      "Dimensions": "L: 9 inch x W: 5.50 inch x H: 4.50 inch"
+    },
+    "description": "Soap Dish With Tooth Brush Holder from Verenza Prime collection. Series 5001. Material: S.S 202. MRP ₹347 (Gloss) | ₹400 (Rose Gold/Black).",
+    "image": "assets/images/products/501-GL.jpg",
+    "images": [
+      "assets/images/products/501-GL.jpg",
+      "assets/images/products/501-RG.jpg",
+      "assets/images/products/501-BL.jpg"
+    ],
+    "pdf": "assets/pdf/products/AV-501.pdf",
+    "finishes": {
+      "Gloss": 347,
+      "Rose Gold": 400,
+      "Black": 400
+    },
+    "weight": "0.307 gm",
+    "finishImages": [
+      {
+        "finish": "Glossy",
+        "suffix": "GL",
+        "image": "assets/images/products/501-GL.jpg"
+      },
+      {
+        "finish": "Rose Gold",
+        "suffix": "RG",
+        "image": "assets/images/products/501-RG.jpg"
+      },
+      {
+        "finish": "Black",
+        "suffix": "BL",
+        "image": "assets/images/products/501-BL.jpg"
+      }
+    ],
+    "catCode": "bath"
+  },
+  {
+    "id": 39,
+    "name": "Soap Dish With Liquid Dispenser",
+    "series": "5002",
+    "collection": "Prime",
+    "price": "₹425 (Gloss) | ₹475 (Rose Gold/Black)",
+    "priceValue": 425,
+    "category": "Soap Dispenser",
+    "material": "S.S 202",
+    "finish": "Gloss / Rose Gold / Black (as per model)",
+    "dimensions": "L: 9 inch x W: 5.50 inch x H: 4.50 inch",
+    "features": [
+      "Verenza Prime Series",
+      "Series No. 5002",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "5002",
+      "Collection": "Prime",
+      "Material": "S.S 202",
+      "MRP": "₹425 (Gloss) | ₹475 (Rose Gold/Black)",
+      "Weight": "0.300 gm",
+      "Dimensions": "L: 9 inch x W: 5.50 inch x H: 4.50 inch"
+    },
+    "description": "Soap Dish With Liquid Dispenser from Verenza Prime collection. Series 5002. Material: S.S 202. MRP ₹425 (Gloss) | ₹475 (Rose Gold/Black).",
+    "image": "assets/images/products/502-GL.jpg",
+    "images": [
+      "assets/images/products/502-GL.jpg",
+      "assets/images/products/502-RG.jpg",
+      "assets/images/products/502-BL.jpg"
+    ],
+    "pdf": "assets/pdf/products/AV-502.pdf",
+    "finishes": {
+      "Gloss": 425,
+      "Rose Gold": 475,
+      "Black": 475
+    },
+    "weight": "0.300 gm",
+    "finishImages": [
+      {
+        "finish": "Glossy",
+        "suffix": "GL",
+        "image": "assets/images/products/502-GL.jpg"
+      },
+      {
+        "finish": "Rose Gold",
+        "suffix": "RG",
+        "image": "assets/images/products/502-RG.jpg"
+      },
+      {
+        "finish": "Black",
+        "suffix": "BL",
+        "image": "assets/images/products/502-BL.jpg"
+      }
+    ],
+    "catCode": "bath"
+  },
+  {
+    "id": 40,
+    "name": "Double Soap Dish",
+    "series": "5003",
+    "collection": "Prime",
+    "price": "₹347 (Gloss) | ₹400 (Rose Gold/Black)",
+    "priceValue": 347,
+    "category": "Soap Dish",
+    "material": "S.S 202",
+    "finish": "Gloss / Rose Gold / Black (as per model)",
+    "dimensions": "L: 9 inch x W: 5.50 inch x H: 4.50 inch",
+    "features": [
+      "Verenza Prime Series",
+      "Series No. 5003",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "5003",
+      "Collection": "Prime",
+      "Material": "S.S 202",
+      "MRP": "₹347 (Gloss) | ₹400 (Rose Gold/Black)",
+      "Weight": "0.303 gm",
+      "Dimensions": "L: 9 inch x W: 5.50 inch x H: 4.50 inch"
+    },
+    "description": "Double Soap Dish from Verenza Prime collection. Series 5003. Material: S.S 202. MRP ₹347 (Gloss) | ₹400 (Rose Gold/Black).",
+    "image": "assets/images/products/503-GL.jpg",
+    "images": [
+      "assets/images/products/503-GL.jpg",
+      "assets/images/products/503-RG.jpg",
+      "assets/images/products/503-BL.jpg"
+    ],
+    "pdf": "assets/pdf/products/AV-503.pdf",
+    "finishes": {
+      "Gloss": 347,
+      "Rose Gold": 400,
+      "Black": 400
+    },
+    "weight": "0.303 gm",
+    "finishImages": [
+      {
+        "finish": "Glossy",
+        "suffix": "GL",
+        "image": "assets/images/products/503-GL.jpg"
+      },
+      {
+        "finish": "Rose Gold",
+        "suffix": "RG",
+        "image": "assets/images/products/503-RG.jpg"
+      },
+      {
+        "finish": "Black",
+        "suffix": "BL",
+        "image": "assets/images/products/503-BL.jpg"
+      }
+    ],
+    "catCode": "bath"
+  },
+  {
+    "id": 41,
+    "name": "Liquid Dispenser With Tooth Brush Holder",
+    "series": "5004",
+    "collection": "Prime",
+    "price": "₹425 (Gloss) | ₹475 (Rose Gold/Black)",
+    "priceValue": 425,
+    "category": "Soap Dispenser",
+    "material": "S.S 202",
+    "finish": "Gloss / Rose Gold / Black (as per model)",
+    "dimensions": "L: 9 inch x W: 5.50 inch x H: 4.50 inch",
+    "features": [
+      "Verenza Prime Series",
+      "Series No. 5004",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "5004",
+      "Collection": "Prime",
+      "Material": "S.S 202",
+      "MRP": "₹425 (Gloss) | ₹475 (Rose Gold/Black)",
+      "Weight": "0.304 gm",
+      "Dimensions": "L: 9 inch x W: 5.50 inch x H: 4.50 inch"
+    },
+    "description": "Liquid Dispenser With Tooth Brush Holder from Verenza Prime collection. Series 5004. Material: S.S 202. MRP ₹425 (Gloss) | ₹475 (Rose Gold/Black).",
+    "image": "assets/images/products/504-GL.jpg",
+    "images": [
+      "assets/images/products/504-GL.jpg",
+      "assets/images/products/504-RG.jpg",
+      "assets/images/products/504-BL.jpg"
+    ],
+    "pdf": "assets/pdf/products/AV-504.pdf",
+    "finishes": {
+      "Gloss": 425,
+      "Rose Gold": 475,
+      "Black": 475
+    },
+    "weight": "0.304 gm",
+    "finishImages": [
+      {
+        "finish": "Glossy",
+        "suffix": "GL",
+        "image": "assets/images/products/504-GL.jpg"
+      },
+      {
+        "finish": "Rose Gold",
+        "suffix": "RG",
+        "image": "assets/images/products/504-RG.jpg"
+      },
+      {
+        "finish": "Black",
+        "suffix": "BL",
+        "image": "assets/images/products/504-BL.jpg"
+      }
+    ],
+    "catCode": "bath"
+  },
+  {
+    "id": 42,
+    "name": "Three In One - Soap Dish With Tooth Brush Holder",
+    "series": "5005",
+    "collection": "Prime",
+    "price": "₹635 (Gloss) | ₹700 (Rose Gold/Black)",
+    "priceValue": 635,
+    "category": "Soap Dish",
+    "material": "S.S 202",
+    "finish": "Gloss / Rose Gold / Black (as per model)",
+    "dimensions": "L: 5.75 inch x W: 5.15 inch x H: 4.50 inch",
+    "features": [
+      "Verenza Prime Series",
+      "Series No. 5005",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "5005",
+      "Collection": "Prime",
+      "Material": "S.S 202",
+      "MRP": "₹635 (Gloss) | ₹700 (Rose Gold/Black)",
+      "Weight": "0.542 gm",
+      "Dimensions": "L: 5.75 inch x W: 5.15 inch x H: 4.50 inch"
+    },
+    "description": "Three In One - Soap Dish With Tooth Brush Holder from Verenza Prime collection. Series 5005. Material: S.S 202. MRP ₹635 (Gloss) | ₹700 (Rose Gold/Black).",
+    "image": "assets/images/products/505-GL.jpg",
+    "images": [
+      "assets/images/products/505-GL.jpg",
+      "assets/images/products/505-RG.jpg",
+      "assets/images/products/505-BL.jpg"
+    ],
+    "pdf": "assets/pdf/products/AV-505.pdf",
+    "finishes": {
+      "Gloss": 635,
+      "Rose Gold": 700,
+      "Black": 700
+    },
+    "weight": "0.542 gm",
+    "finishImages": [
+      {
+        "finish": "Glossy",
+        "suffix": "GL",
+        "image": "assets/images/products/505-GL.jpg"
+      },
+      {
+        "finish": "Rose Gold",
+        "suffix": "RG",
+        "image": "assets/images/products/505-RG.jpg"
+      },
+      {
+        "finish": "Black",
+        "suffix": "BL",
+        "image": "assets/images/products/505-BL.jpg"
+      }
+    ],
+    "catCode": "bath"
+  },
+  {
+    "id": 43,
+    "name": "Four In One - Soap Dish With Tooth Brush Holder",
+    "series": "5006",
+    "collection": "Prime",
+    "price": "₹790 (Gloss) | ₹870 (Rose Gold/Black)",
+    "priceValue": 790,
+    "category": "Soap Dish",
+    "material": "S.S 202",
+    "finish": "Gloss / Rose Gold / Black (as per model)",
+    "dimensions": "L: 18.50 inch x W: 5.15 inch x H: 4.50 inch",
+    "features": [
+      "Verenza Prime Series",
+      "Series No. 5006",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "5006",
+      "Collection": "Prime",
+      "Material": "S.S 202",
+      "MRP": "₹790 (Gloss) | ₹870 (Rose Gold/Black)",
+      "Weight": "0.660 gm",
+      "Dimensions": "L: 18.50 inch x W: 5.15 inch x H: 4.50 inch"
+    },
+    "description": "Four In One - Soap Dish With Tooth Brush Holder from Verenza Prime collection. Series 5006. Material: S.S 202. MRP ₹790 (Gloss) | ₹870 (Rose Gold/Black).",
+    "image": "assets/images/products/506-GL.jpg",
+    "images": [
+      "assets/images/products/506-GL.jpg",
+      "assets/images/products/506-RG.jpg",
+      "assets/images/products/506-BL.jpg"
+    ],
+    "pdf": "assets/pdf/products/AV-506.pdf",
+    "finishes": {
+      "Gloss": 790,
+      "Rose Gold": 870,
+      "Black": 870
+    },
+    "weight": "0.660 gm",
+    "finishImages": [
+      {
+        "finish": "Glossy",
+        "suffix": "GL",
+        "image": "assets/images/products/506-GL.jpg"
+      },
+      {
+        "finish": "Rose Gold",
+        "suffix": "RG",
+        "image": "assets/images/products/506-RG.jpg"
+      },
+      {
+        "finish": "Black",
+        "suffix": "BL",
+        "image": "assets/images/products/506-BL.jpg"
+      }
+    ],
+    "catCode": "bath"
+  },
+  {
+    "id": 44,
+    "name": "Four In One - Dispenser With Tooth Brush Holder",
+    "series": "5007",
+    "collection": "Prime",
+    "price": "₹870 (Gloss) | ₹955 (Rose Gold/Black)",
+    "priceValue": 870,
+    "category": "Soap Dispenser",
+    "material": "S.S 202",
+    "finish": "Gloss / Rose Gold / Black (as per model)",
+    "dimensions": "L: 18.50 inch x W: 5.15 inch x H: 4.50 inch",
+    "features": [
+      "Verenza Prime Series",
+      "Series No. 5007",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "5007",
+      "Collection": "Prime",
+      "Material": "S.S 202",
+      "MRP": "₹870 (Gloss) | ₹955 (Rose Gold/Black)",
+      "Weight": "0.655 gm",
+      "Dimensions": "L: 18.50 inch x W: 5.15 inch x H: 4.50 inch"
+    },
+    "description": "Four In One - Dispenser With Tooth Brush Holder from Verenza Prime collection. Series 5007. Material: S.S 202. MRP ₹870 (Gloss) | ₹955 (Rose Gold/Black).",
+    "image": "assets/images/products/507-GL.jpg",
+    "images": [
+      "assets/images/products/507-GL.jpg",
+      "assets/images/products/507-RG.jpg",
+      "assets/images/products/507-BL.jpg"
+    ],
+    "pdf": "assets/pdf/products/AV-507.pdf",
+    "finishes": {
+      "Gloss": 870,
+      "Rose Gold": 955,
+      "Black": 955
+    },
+    "weight": "0.655 gm",
+    "finishImages": [
+      {
+        "finish": "Glossy",
+        "suffix": "GL",
+        "image": "assets/images/products/507-GL.jpg"
+      },
+      {
+        "finish": "Rose Gold",
+        "suffix": "RG",
+        "image": "assets/images/products/507-RG.jpg"
+      },
+      {
+        "finish": "Black",
+        "suffix": "BL",
+        "image": "assets/images/products/507-BL.jpg"
+      }
+    ],
+    "catCode": "bath"
+  },
+  {
+    "id": 45,
+    "name": "Four In One - Double Step",
+    "series": "5008",
+    "collection": "Prime",
+    "price": "₹1,020",
+    "priceValue": 1020,
+    "category": "Corner Shelf",
+    "material": "S.S 202",
+    "finish": "Gloss",
+    "dimensions": "As per catalogue",
+    "features": [
+      "Verenza Prime Series",
+      "Series No. 5008",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "5008",
+      "Collection": "Prime",
+      "Material": "S.S 202",
+      "MRP": "₹1,020",
+      "Weight": "0.941 gm"
+    },
+    "description": "Four In One - Double Step from Verenza Prime collection. Series 5008. Material: S.S 202. MRP ₹1,020.",
+    "image": "assets/images/products/508.jpg",
+    "images": [
+      "assets/images/products/508.jpg"
+    ],
+    "pdf": "assets/pdf/products/AV-508.pdf",
+    "weight": "0.941 gm",
+    "catCode": "bath"
+  },
+  {
+    "id": 46,
+    "name": "Single Shelf",
+    "series": "5009",
+    "collection": "Prime",
+    "price": "₹500",
+    "priceValue": 500,
+    "category": "Corner Shelf",
+    "material": "S.S 202",
+    "finish": "Gloss",
+    "dimensions": "As per catalogue",
+    "features": [
+      "Verenza Prime Series",
+      "Series No. 5009",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "5009",
+      "Collection": "Prime",
+      "Material": "S.S 202",
+      "MRP": "₹500",
+      "Weight": "0.519 gm"
+    },
+    "description": "Single Shelf from Verenza Prime collection. Series 5009. Material: S.S 202. MRP ₹500.",
+    "image": "assets/images/products/509.jpg",
+    "images": [
+      "assets/images/products/509.jpg"
+    ],
+    "pdf": "assets/pdf/products/AV-509.pdf",
+    "weight": "0.519 gm",
+    "catCode": "bath"
+  },
+  {
+    "id": 47,
+    "name": "Single Shelf With Towel Rod",
+    "series": "5010",
+    "collection": "Prime",
+    "price": "₹1,000",
+    "priceValue": 1000,
+    "category": "Towel Rod",
+    "material": "S.S 202",
+    "finish": "Gloss",
+    "dimensions": "L: 16 inch x W: 9 inch x H: 5 inch",
+    "features": [
+      "Verenza Prime Series",
+      "Series No. 5010",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "5010",
+      "Collection": "Prime",
+      "Material": "S.S 202",
+      "MRP": "₹1,000",
+      "Weight": "1 kg 0.25 gm",
+      "Dimensions": "L: 16 inch x W: 9 inch x H: 5 inch"
+    },
+    "description": "Single Shelf With Towel Rod from Verenza Prime collection. Series 5010. Material: S.S 202. MRP ₹1,000.",
+    "image": "assets/images/products/510.jpg",
+    "images": [
+      "assets/images/products/510.jpg"
+    ],
+    "pdf": "assets/pdf/products/AV-510.pdf",
+    "weight": "1 kg 0.25 gm",
+    "catCode": "bath"
+  },
+  {
+    "id": 48,
+    "name": "Double Shelf With Towel Rod",
+    "series": "5011",
+    "collection": "Prime",
+    "price": "₹1,385",
+    "priceValue": 1385,
+    "category": "Towel Rod",
+    "material": "S.S 202",
+    "finish": "Gloss",
+    "dimensions": "L: 17.15 inch x W: 16.15 inch x H: 5.15 inch",
+    "features": [
+      "Verenza Prime Series",
+      "Series No. 5011",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "5011",
+      "Collection": "Prime",
+      "Material": "S.S 202",
+      "MRP": "₹1,385",
+      "Weight": "1 kg 0.571 gm",
+      "Dimensions": "L: 17.15 inch x W: 16.15 inch x H: 5.15 inch"
+    },
+    "description": "Double Shelf With Towel Rod from Verenza Prime collection. Series 5011. Material: S.S 202. MRP ₹1,385.",
+    "image": "assets/images/products/511.jpg",
+    "images": [
+      "assets/images/products/511.jpg"
+    ],
+    "pdf": "assets/pdf/products/AV-511.pdf",
+    "weight": "1 kg 0.571 gm",
+    "catCode": "bath"
+  },
+  {
+    "id": 49,
+    "name": "Single Shelf (Sizes)",
+    "series": "5012",
+    "collection": "Prime",
+    "price": "₹482 (5×12) | ₹520 (5×15) | ₹559 (5×18)",
+    "priceValue": 482,
+    "category": "Corner Shelf",
+    "material": "S.S 202",
+    "finish": "Gloss",
+    "dimensions": "L: 13 – 19 inch x W: 5.50 inch x H: 2.50 inch",
+    "features": [
+      "Verenza Prime Series",
+      "Series No. 5012",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "5012",
+      "Collection": "Prime",
+      "Material": "S.S 202",
+      "MRP": "₹482 (5×12) | ₹520 (5×15) | ₹559 (5×18)",
+      "Weight": "0.412 – 0.705 gm",
+      "Dimensions": "L: 13 – 19 inch x W: 5.50 inch x H: 2.50 inch"
+    },
+    "description": "Single Shelf (Sizes) from Verenza Prime collection. Series 5012. Material: S.S 202. MRP ₹482 (5×12) | ₹520 (5×15) | ₹559 (5×18).",
+    "image": "assets/images/products/512.jpg",
+    "images": [
+      "assets/images/products/512.jpg"
+    ],
+    "pdf": "assets/pdf/products/AV-512.pdf",
+    "sizes": {
+      "5x12": 482,
+      "5x15": 520,
+      "5x18": 559
+    },
+    "weight": "0.412 – 0.705 gm",
+    "catCode": "bath"
+  },
+  {
+    "id": 50,
+    "name": "Corner Shelf 9×9",
+    "series": "5013",
+    "collection": "Prime",
+    "price": "₹530 (Gloss) | ₹600 (Rose Gold/Black)",
+    "priceValue": 530,
+    "category": "Corner Shelf",
+    "material": "S.S 202",
+    "finish": "Gloss / Rose Gold / Black (as per model)",
+    "dimensions": "L: 10 inch x W: 9.75 inch x H: 2.50 inch",
+    "features": [
+      "Verenza Prime Series",
+      "Series No. 5013",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "5013",
+      "Collection": "Prime",
+      "Material": "S.S 202",
+      "MRP": "₹530 (Gloss) | ₹600 (Rose Gold/Black)",
+      "Weight": "0.470 gm",
+      "Dimensions": "L: 10 inch x W: 9.75 inch x H: 2.50 inch"
+    },
+    "description": "Corner Shelf 9×9 from Verenza Prime collection. Series 5013. Material: S.S 202. MRP ₹530 (Gloss) | ₹600 (Rose Gold/Black).",
+    "image": "assets/images/products/513-GL.jpg",
+    "images": [
+      "assets/images/products/513-GL.jpg",
+      "assets/images/products/513-RG.jpg",
+      "assets/images/products/513-BL.jpg"
+    ],
+    "pdf": "assets/pdf/products/AV-513.pdf",
+    "finishes": {
+      "Gloss": 530,
+      "Rose Gold": 600,
+      "Black": 600
+    },
+    "weight": "0.470 gm",
+    "finishImages": [
+      {
+        "finish": "Glossy",
+        "suffix": "GL",
+        "image": "assets/images/products/513-GL.jpg"
+      },
+      {
+        "finish": "Rose Gold",
+        "suffix": "RG",
+        "image": "assets/images/products/513-RG.jpg"
+      },
+      {
+        "finish": "Black",
+        "suffix": "BL",
+        "image": "assets/images/products/513-BL.jpg"
+      }
+    ],
+    "catCode": "bath"
+  },
+  {
+    "id": 51,
+    "name": "Corner Shelf 12×12",
+    "series": "5028",
+    "collection": "Prime",
+    "price": "₹600 (Gloss) | ₹710 (Rose Gold/Black)",
+    "priceValue": 600,
+    "category": "Corner Shelf",
+    "material": "S.S 202",
+    "finish": "Gloss / Rose Gold / Black (as per model)",
+    "dimensions": "L: 13 inch x W: 12.50 inch x H: 2.50 inch",
+    "features": [
+      "Verenza Prime Series",
+      "Series No. 5028",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "5028",
+      "Collection": "Prime",
+      "Material": "S.S 202",
+      "MRP": "₹600 (Gloss) | ₹710 (Rose Gold/Black)",
+      "Weight": "0.740 gm",
+      "Dimensions": "L: 13 inch x W: 12.50 inch x H: 2.50 inch"
+    },
+    "description": "Corner Shelf 12×12 from Verenza Prime collection. Series 5028. Material: S.S 202. MRP ₹600 (Gloss) | ₹710 (Rose Gold/Black).",
+    "image": "assets/images/products/513-12-GL.jpg",
+    "images": [
+      "assets/images/products/513-12-GL.jpg",
+      "assets/images/products/513-12-RG.jpg",
+      "assets/images/products/513-12-BL.jpg"
+    ],
+    "pdf": "assets/pdf/products/AV-12.pdf",
+    "finishes": {
+      "Gloss": 600,
+      "Rose Gold": 710,
+      "Black": 710
+    },
+    "weight": "0.740 gm",
+    "finishImages": [
+      {
+        "finish": "Glossy",
+        "suffix": "GL",
+        "image": "assets/images/products/513-12-GL.jpg"
+      },
+      {
+        "finish": "Rose Gold",
+        "suffix": "RG",
+        "image": "assets/images/products/513-12-RG.jpg"
+      },
+      {
+        "finish": "Black",
+        "suffix": "BL",
+        "image": "assets/images/products/513-12-BL.jpg"
+      }
+    ],
+    "catCode": "bath"
+  },
+  {
+    "id": 52,
+    "name": "Round Rack 24\"",
+    "series": "5014",
+    "collection": "Prime",
+    "price": "₹1,300 (CP 24\")",
+    "priceValue": 1300,
+    "category": "Towel Rod",
+    "material": "S.S 304",
+    "finish": "Chrome",
+    "dimensions": "L: 26 inch x W: 13 inch x H: 2 inch",
+    "features": [
+      "Verenza Prime Series",
+      "Series No. 5014",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "5014",
+      "Collection": "Prime",
+      "Material": "S.S 304",
+      "MRP": "₹1,300 (CP 24\")",
+      "Weight": "1 kg 0.225 gm",
+      "Dimensions": "L: 26 inch x W: 13 inch x H: 2 inch"
+    },
+    "description": "Round Rack 24\" from Verenza Prime collection. Series 5014. Material: S.S 304. MRP ₹1,300 (CP 24\").",
+    "image": "assets/images/products/514.jpg",
+    "images": [
+      "assets/images/products/514.jpg"
+    ],
+    "pdf": "assets/pdf/products/AV-514.pdf",
+    "weight": "1 kg 0.225 gm",
+    "catCode": "bath"
+  },
+  {
+    "id": 53,
+    "name": "Folding Rack 24\"",
+    "series": "5015",
+    "collection": "Prime",
+    "price": "₹1,650 (CP) | ₹1,980 (Black 24\")",
+    "priceValue": 1650,
+    "category": "Towel Rod",
+    "material": "S.S 304",
+    "finish": "Chrome / Black",
+    "dimensions": "L: 25 inch x W: 17.15 inch x H: 2.50 inch",
+    "features": [
+      "Verenza Prime Series",
+      "Series No. 5015",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "5015",
+      "Collection": "Prime",
+      "Material": "S.S 304",
+      "MRP": "₹1,650 (CP) | ₹1,980 (Black 24\")",
+      "Weight": "1 kg 0.460 gm",
+      "Dimensions": "L: 25 inch x W: 17.15 inch x H: 2.50 inch"
+    },
+    "description": "Folding Rack 24\" from Verenza Prime collection. Series 5015. Material: S.S 304. MRP ₹1,650 (CP) | ₹1,980 (Black 24\").",
+    "image": "assets/images/products/515.jpg",
+    "images": [
+      "assets/images/products/515.jpg"
+    ],
+    "pdf": "assets/pdf/products/AV-515.pdf",
+    "weight": "1 kg 0.460 gm",
+    "catCode": "bath"
+  },
+  {
+    "id": 54,
+    "name": "Square Rack",
+    "series": "5016",
+    "collection": "Prime",
+    "price": "₹1,100 (18\") | ₹1,160 (24\")",
+    "priceValue": 1100,
+    "category": "Towel Rod",
+    "material": "S.S 202",
+    "finish": "Gloss",
+    "dimensions": "L: 20 – 26 inch x W: 13 inch x H: 2 – 2.50 inch",
+    "features": [
+      "Verenza Prime Series",
+      "Series No. 5016",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "5016",
+      "Collection": "Prime",
+      "Material": "S.S 202",
+      "MRP": "₹1,100 (18\") | ₹1,160 (24\")",
+      "Weight": "1 kg 0.172 – 0.20 gm",
+      "Dimensions": "L: 20 – 26 inch x W: 13 inch x H: 2 – 2.50 inch"
+    },
+    "description": "Square Rack from Verenza Prime collection. Series 5016. Material: S.S 202. MRP ₹1,100 (18\") | ₹1,160 (24\").",
+    "image": "assets/images/products/516.jpg",
+    "images": [
+      "assets/images/products/516.jpg"
+    ],
+    "pdf": "assets/pdf/products/AV-516.pdf",
+    "sizes": {
+      "18": 1100,
+      "24": 1160
+    },
+    "weight": "1 kg 0.172 – 0.20 gm",
+    "catCode": "bath"
+  },
+  {
+    "id": 55,
+    "name": "Round Rack",
+    "series": "5017",
+    "collection": "Prime",
+    "price": "₹1,000 (18\") | ₹1,060 (24\")",
+    "priceValue": 1000,
+    "category": "Towel Rod",
+    "material": "S.S 202",
+    "finish": "Gloss",
+    "dimensions": "L: 20 – 26 inch x W: 13 inch x H: 2 – 2.50 inch",
+    "features": [
+      "Verenza Prime Series",
+      "Series No. 5017",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "5017",
+      "Collection": "Prime",
+      "Material": "S.S 202",
+      "MRP": "₹1,000 (18\") | ₹1,060 (24\")",
+      "Weight": "0.950 gm – 1 kg 0.93 gm",
+      "Dimensions": "L: 20 – 26 inch x W: 13 inch x H: 2 – 2.50 inch"
+    },
+    "description": "Round Rack from Verenza Prime collection. Series 5017. Material: S.S 202. MRP ₹1,000 (18\") | ₹1,060 (24\").",
+    "image": "assets/images/products/517.jpg",
+    "images": [
+      "assets/images/products/517.jpg"
+    ],
+    "pdf": "assets/pdf/products/AV-517.pdf",
+    "sizes": {
+      "18": 1000,
+      "24": 1060
+    },
+    "weight": "0.950 gm – 1 kg 0.93 gm",
+    "catCode": "bath"
+  },
+  {
+    "id": 56,
+    "name": "Towel Rod",
+    "series": "5018",
+    "collection": "Prime",
+    "price": "₹193 (12\") – ₹270 (36\")",
+    "priceValue": 193,
+    "category": "Towel Rod",
+    "material": "S.S 202",
+    "finish": "Gloss",
+    "dimensions": "Length: 12 – 36 inch",
+    "features": [
+      "Verenza Prime Series",
+      "Series No. 5018",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "5018",
+      "Collection": "Prime",
+      "Material": "S.S 202",
+      "MRP": "₹193 (12\") – ₹270 (36\")",
+      "Weight": "0.227 – 0.362 gm",
+      "Dimensions": "Length: 12 – 36 inch"
+    },
+    "description": "Towel Rod from Verenza Prime collection. Series 5018. Material: S.S 202. MRP ₹193 (12\") – ₹270 (36\").",
+    "image": "assets/images/products/518.jpg",
+    "images": [
+      "assets/images/products/518.jpg"
+    ],
+    "pdf": "assets/pdf/products/AV-518.pdf",
+    "weight": "0.227 – 0.362 gm",
+    "catCode": "bath"
+  },
+  {
+    "id": 57,
+    "name": "Solid Towel Rod",
+    "series": "5019",
+    "collection": "Prime",
+    "price": "₹270 (12\") – ₹424 (36\")",
+    "priceValue": 270,
+    "category": "Towel Rod",
+    "material": "S.S 202",
+    "finish": "Gloss",
+    "dimensions": "Length: 12 – 36 inch",
+    "features": [
+      "Verenza Prime Series",
+      "Series No. 5019",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "5019",
+      "Collection": "Prime",
+      "Material": "S.S 202",
+      "MRP": "₹270 (12\") – ₹424 (36\")",
+      "Weight": "0.489 – 0.670 gm",
+      "Dimensions": "Length: 12 – 36 inch"
+    },
+    "description": "Solid Towel Rod from Verenza Prime collection. Series 5019. Material: S.S 202. MRP ₹270 (12\") – ₹424 (36\").",
+    "image": "assets/images/products/519.jpg",
+    "images": [
+      "assets/images/products/519.jpg"
+    ],
+    "pdf": "assets/pdf/products/AV-519.pdf",
+    "weight": "0.489 – 0.670 gm",
+    "catCode": "bath"
+  },
+  {
+    "id": 58,
+    "name": "Square & Round ABS Towel Rod",
+    "series": "5020",
+    "collection": "Prime",
+    "price": "₹212",
+    "priceValue": 212,
+    "category": "Towel Rod",
+    "material": "S.S 202",
+    "finish": "Gloss",
+    "dimensions": "As per catalogue",
+    "features": [
+      "Verenza Prime Series",
+      "Series No. 5020",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "5020",
+      "Collection": "Prime",
+      "Material": "S.S 202",
+      "MRP": "₹212"
+    },
+    "description": "Square & Round ABS Towel Rod from Verenza Prime collection. Series 5020. Material: S.S 202. MRP ₹212.",
+    "image": "assets/images/products/520.jpg",
+    "images": [
+      "assets/images/products/520.jpg"
+    ],
+    "pdf": "assets/pdf/products/AV-520.pdf",
+    "catCode": "bath"
+  },
+  {
+    "id": 59,
+    "name": "Four Step Napkin Stand",
+    "series": "5021",
+    "collection": "Prime",
+    "price": "₹610",
+    "priceValue": 610,
+    "category": "Napkin Holder",
+    "material": "S.S 202",
+    "finish": "Gloss",
+    "dimensions": "As per catalogue",
+    "features": [
+      "Verenza Prime Series",
+      "Series No. 5021",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "5021",
+      "Collection": "Prime",
+      "Material": "S.S 202",
+      "MRP": "₹610",
+      "Weight": "0.560 gm"
+    },
+    "description": "Four Step Napkin Stand from Verenza Prime collection. Series 5021. Material: S.S 202. MRP ₹610.",
+    "image": "assets/images/products/521.jpg",
+    "images": [
+      "assets/images/products/521.jpg"
+    ],
+    "pdf": "assets/pdf/products/AV-521.pdf",
+    "weight": "0.560 gm",
+    "catCode": "bath"
+  },
+  {
+    "id": 60,
+    "name": "Single One Liquid Dispenser",
+    "series": "5022",
+    "collection": "Prime",
+    "price": "₹286 (Gloss) | ₹326 (Rose Gold/Black)",
+    "priceValue": 286,
+    "category": "Soap Dispenser",
+    "material": "S.S 202",
+    "finish": "Gloss / Rose Gold / Black (as per model)",
+    "dimensions": "L: 6 inch x W: 5 inch x H: 3.15 inch",
+    "features": [
+      "Verenza Prime Series",
+      "Series No. 5022",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "5022",
+      "Collection": "Prime",
+      "Material": "S.S 202",
+      "MRP": "₹286 (Gloss) | ₹326 (Rose Gold/Black)",
+      "Weight": "0.149 gm",
+      "Dimensions": "L: 6 inch x W: 5 inch x H: 3.15 inch"
+    },
+    "description": "Single One Liquid Dispenser from Verenza Prime collection. Series 5022. Material: S.S 202. MRP ₹286 (Gloss) | ₹326 (Rose Gold/Black).",
+    "image": "assets/images/products/522-GL.jpg",
+    "images": [
+      "assets/images/products/522-GL.jpg",
+      "assets/images/products/522-RG.jpg",
+      "assets/images/products/522-BL.jpg"
+    ],
+    "pdf": "assets/pdf/products/AV-522.pdf",
+    "finishes": {
+      "Gloss": 286,
+      "Rose Gold": 326,
+      "Black": 326
+    },
+    "weight": "0.149 gm",
+    "finishImages": [
+      {
+        "finish": "Glossy",
+        "suffix": "GL",
+        "image": "assets/images/products/522-GL.jpg"
+      },
+      {
+        "finish": "Rose Gold",
+        "suffix": "RG",
+        "image": "assets/images/products/522-RG.jpg"
+      },
+      {
+        "finish": "Black",
+        "suffix": "BL",
+        "image": "assets/images/products/522-BL.jpg"
+      }
+    ],
+    "catCode": "bath"
+  },
+  {
+    "id": 61,
+    "name": "Single One Tooth Brush Holder",
+    "series": "5023",
+    "collection": "Prime",
+    "price": "₹225 (Gloss) | ₹265 (Rose Gold/Black)",
+    "priceValue": 225,
+    "category": "Tooth Brush Holder",
+    "material": "S.S 202",
+    "finish": "Gloss / Rose Gold / Black (as per model)",
+    "dimensions": "L: 6 inch x W: 5 inch x H: 3.15 inch",
+    "features": [
+      "Verenza Prime Series",
+      "Series No. 5023",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "5023",
+      "Collection": "Prime",
+      "Material": "S.S 202",
+      "MRP": "₹225 (Gloss) | ₹265 (Rose Gold/Black)",
+      "Weight": "0.160 gm",
+      "Dimensions": "L: 6 inch x W: 5 inch x H: 3.15 inch"
+    },
+    "description": "Single One Tooth Brush Holder from Verenza Prime collection. Series 5023. Material: S.S 202. MRP ₹225 (Gloss) | ₹265 (Rose Gold/Black).",
+    "image": "assets/images/products/523-GL.jpg",
+    "images": [
+      "assets/images/products/523-GL.jpg",
+      "assets/images/products/523-RG.jpg",
+      "assets/images/products/523-BL.jpg"
+    ],
+    "pdf": "assets/pdf/products/AV-523.pdf",
+    "finishes": {
+      "Gloss": 225,
+      "Rose Gold": 265,
+      "Black": 265
+    },
+    "weight": "0.160 gm",
+    "finishImages": [
+      {
+        "finish": "Glossy",
+        "suffix": "GL",
+        "image": "assets/images/products/523-GL.jpg"
+      },
+      {
+        "finish": "Rose Gold",
+        "suffix": "RG",
+        "image": "assets/images/products/523-RG.jpg"
+      },
+      {
+        "finish": "Black",
+        "suffix": "BL",
+        "image": "assets/images/products/523-BL.jpg"
+      }
+    ],
+    "catCode": "bath"
+  },
+  {
+    "id": 62,
+    "name": "Single One Soap Dish",
+    "series": "5024",
+    "collection": "Prime",
+    "price": "₹225 (Gloss) | ₹265 (Rose Gold/Black)",
+    "priceValue": 225,
+    "category": "Soap Dish",
+    "material": "S.S 202",
+    "finish": "Gloss / Rose Gold / Black (as per model)",
+    "dimensions": "L: 6 inch x W: 5 inch x H: 3.15 inch",
+    "features": [
+      "Verenza Prime Series",
+      "Series No. 5024",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "5024",
+      "Collection": "Prime",
+      "Material": "S.S 202",
+      "MRP": "₹225 (Gloss) | ₹265 (Rose Gold/Black)",
+      "Weight": "0.150 gm",
+      "Dimensions": "L: 6 inch x W: 5 inch x H: 3.15 inch"
+    },
+    "description": "Single One Soap Dish from Verenza Prime collection. Series 5024. Material: S.S 202. MRP ₹225 (Gloss) | ₹265 (Rose Gold/Black).",
+    "image": "assets/images/products/524-GL.jpg",
+    "images": [
+      "assets/images/products/524-GL.jpg",
+      "assets/images/products/524-RG.jpg",
+      "assets/images/products/524-BL.jpg"
+    ],
+    "pdf": "assets/pdf/products/AV-524.pdf",
+    "finishes": {
+      "Gloss": 225,
+      "Rose Gold": 265,
+      "Black": 265
+    },
+    "weight": "0.150 gm",
+    "finishImages": [
+      {
+        "finish": "Glossy",
+        "suffix": "GL",
+        "image": "assets/images/products/524-GL.jpg"
+      },
+      {
+        "finish": "Rose Gold",
+        "suffix": "RG",
+        "image": "assets/images/products/524-RG.jpg"
+      },
+      {
+        "finish": "Black",
+        "suffix": "BL",
+        "image": "assets/images/products/524-BL.jpg"
+      }
+    ],
+    "catCode": "bath"
+  },
+  {
+    "id": 63,
+    "name": "Toilet Paper Holder",
+    "series": "5025",
+    "collection": "Prime",
+    "price": "₹660 (CP)",
+    "priceValue": 660,
+    "category": "Tissue Holder",
+    "material": "S.S 304",
+    "finish": "Chrome",
+    "dimensions": "As per catalogue",
+    "features": [
+      "Verenza Prime Series",
+      "Series No. 5025",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "5025",
+      "Collection": "Prime",
+      "Material": "S.S 304",
+      "MRP": "₹660 (CP)",
+      "Weight": "0.348 gm"
+    },
+    "description": "Toilet Paper Holder from Verenza Prime collection. Series 5025. Material: S.S 304. MRP ₹660 (CP).",
+    "image": "assets/images/products/525.jpg",
+    "images": [
+      "assets/images/products/525.jpg"
+    ],
+    "pdf": "assets/pdf/products/AV-525.pdf",
+    "weight": "0.348 gm",
+    "catCode": "bath"
+  },
+  {
+    "id": 64,
+    "name": "Toilet Paper Holder",
+    "series": "5026",
+    "collection": "Prime",
+    "price": "₹330",
+    "priceValue": 330,
+    "category": "Tissue Holder",
+    "material": "S.S 202",
+    "finish": "Gloss",
+    "dimensions": "L: 6.50 inch x W: 4 inch x H: 3 inch",
+    "features": [
+      "Verenza Prime Series",
+      "Series No. 5026",
+      "Premium S.S finish",
+      "Corrosion resistant"
+    ],
+    "specifications": {
+      "Series Number": "5026",
+      "Collection": "Prime",
+      "Material": "S.S 202",
+      "MRP": "₹330",
+      "Weight": "0.256 gm",
+      "Dimensions": "L: 6.50 inch x W: 4 inch x H: 3 inch"
+    },
+    "description": "Toilet Paper Holder from Verenza Prime collection. Series 5026. Material: S.S 202. MRP ₹330.",
+    "image": "assets/images/products/KT-526.jpg",
+    "images": [
+      "assets/images/products/KT-526.jpg"
+    ],
+    "pdf": "assets/pdf/products/CL-526.pdf",
+    "weight": "0.256 gm",
+    "catCode": "kt"
+  }
+]

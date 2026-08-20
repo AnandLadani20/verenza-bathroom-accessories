@@ -2,15 +2,25 @@ import "./globals.css";
 import "swiper/css/bundle";
 import "glightbox/dist/css/glightbox.min.css";
 
+const SITE_TITLE = "Verenza | Stainless Steel Bathroom Accessories Manufacturer in Rajkot, Gujarat";
+const SITE_DESCRIPTION =
+  "Verenza is a Rajkot, Gujarat-based manufacturer of premium stainless steel bathroom accessories — towel rings, racks, shelves and kitchen organizers — supplying dealers and homes across Gujarat and India.";
+
 export const metadata = {
   metadataBase: new URL("https://www.verenza.com"),
-  title: "Verenza | Premium Stainless Steel Bathroom Accessories",
-  description:
-    "Verenza designs and manufactures premium stainless steel bathroom accessories — towel rings, racks, shelves and kitchen organizers crafted for modern homes.",
+  title: SITE_TITLE,
+  description: SITE_DESCRIPTION,
   keywords: [
+    "bathroom accessories Rajkot",
+    "bathroom accessories Gujarat",
+    "stainless steel bathroom accessories manufacturer Rajkot",
+    "bathroom fittings Gujarat",
     "stainless steel bathroom accessories",
-    "towel ring",
-    "towel hanger",
+    "towel rod",
+    "towel rack",
+    "liquid soap dispenser",
+    "soap dish",
+    "toothbrush holder",
     "bathroom shelf",
     "Verenza",
   ],
@@ -18,16 +28,14 @@ export const metadata = {
     siteName: "Verenza",
     type: "website",
     locale: "en_IN",
-    title: "Verenza | Premium Stainless Steel Bathroom Accessories",
-    description:
-      "Verenza designs and manufactures premium stainless steel bathroom accessories — towel rings, racks, shelves and kitchen organizers crafted for modern homes.",
+    title: SITE_TITLE,
+    description: SITE_DESCRIPTION,
     images: [{ url: "/og-image.jpg", width: 1200, height: 630, alt: "Verenza stainless steel bathroom accessories" }],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Verenza | Premium Stainless Steel Bathroom Accessories",
-    description:
-      "Verenza designs and manufactures premium stainless steel bathroom accessories — towel rings, racks, shelves and kitchen organizers crafted for modern homes.",
+    title: SITE_TITLE,
+    description: SITE_DESCRIPTION,
     images: ["/og-image.jpg"],
   },
   icons: {
@@ -46,12 +54,14 @@ export const metadata = {
 
 const organizationJsonLd = {
   "@context": "https://schema.org",
-  "@type": "Organization",
+  "@type": "LocalBusiness",
+  "@id": "https://www.verenza.com/#organization",
   name: "Verenza Enterprise",
   url: "https://www.verenza.com",
   logo: "https://www.verenza.com/images/logo/verenzabath.png",
-  description:
-    "Verenza designs and manufactures premium stainless steel bathroom and kitchen accessories.",
+  image: "https://www.verenza.com/images/logo/verenzabath.png",
+  description: SITE_DESCRIPTION,
+  priceRange: "₹₹",
   address: {
     "@type": "PostalAddress",
     streetAddress: "220, Aakanksha Complex, Gondal Road",
@@ -59,8 +69,23 @@ const organizationJsonLd = {
     addressRegion: "Gujarat",
     addressCountry: "IN",
   },
+  geo: {
+    "@type": "GeoCoordinates",
+    latitude: 22.3039,
+    longitude: 70.8022,
+  },
+  areaServed: [
+    { "@type": "City", name: "Rajkot" },
+    { "@type": "State", name: "Gujarat" },
+    { "@type": "Country", name: "India" },
+  ],
   email: "verenzaenterprise@gmail.com",
   telephone: "+919998405513",
+  sameAs: [
+    "https://www.facebook.com/share/1EPrY4BtqT/",
+    "https://www.instagram.com/verenzaenterprise",
+    "https://www.youtube.com/@verenzaenterprise",
+  ],
 };
 
 export default function RootLayout({ children }) {

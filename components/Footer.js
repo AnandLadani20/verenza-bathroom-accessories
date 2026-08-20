@@ -10,10 +10,9 @@ export default function Footer() {
             <Link href="/" className="logo"><img src="/images/logo/verenzabathWhite.png" alt="Verenza" className="logo-footer" /></Link>
             <p>Verenza designs and manufactures premium stainless steel bathroom and kitchen accessories — combining modern aesthetics with industrial-grade durability.</p>
             <div className="footer-social">
-              <a href="#" aria-label="Facebook"><i className="fa-brands fa-facebook-f"></i></a>
-              <a href="#" aria-label="Instagram"><i className="fa-brands fa-instagram"></i></a>
-              <a href="#" aria-label="LinkedIn"><i className="fa-brands fa-linkedin-in"></i></a>
-              <a href="#" aria-label="YouTube"><i className="fa-brands fa-youtube"></i></a>
+              <a href="https://www.facebook.com/share/1EPrY4BtqT/" target="_blank" rel="noopener noreferrer" aria-label="Facebook"><i className="fa-brands fa-facebook-f"></i></a>
+              <a href="https://www.instagram.com/verenzaenterprise?igsh=d2J3NWhkNzEwaHM0&igsi=d2J3NWhkNzEwaHM0" target="_blank" rel="noopener noreferrer" aria-label="Instagram"><i className="fa-brands fa-instagram"></i></a>
+              <a href="https://www.youtube.com/@verenzaenterprise" target="_blank" rel="noopener noreferrer" aria-label="YouTube"><i className="fa-brands fa-youtube"></i></a>
             </div>
           </div>
           <div className="footer-col">
@@ -44,7 +43,7 @@ export default function Footer() {
               <li><a href="mailto:verenzaenterprise@gmail.com">verenzaenterprise@gmail.com</a></li>
               <li><a href="tel:+919998405513">+91 99984 05513</a></li>
               <li><a href="tel:+917490969595">+91 74909 69595</a></li>
-              <li><span style={{ color: "rgba(255,255,255,.55)", fontSize: "14px", display: "block", marginTop: "4px" }}>Verenza Enterprise, 220, Aakanksha Complex, Gondal Road, Rajkot, Gujarat</span></li>
+              <li><address style={{ color: "rgba(255,255,255,.55)", fontSize: "14px", fontStyle: "normal", display: "block", marginTop: "4px" }}>Verenza Enterprise, 220, Aakanksha Complex, Gondal Road, Rajkot, Gujarat</address></li>
             </ul>
           </div>
         </div>

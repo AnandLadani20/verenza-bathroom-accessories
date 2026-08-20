@@ -5,14 +5,14 @@ import MagneticButton from "@/components/motion/MagneticButton";
 import { getAllProducts, getCategoryMeta } from "@/lib/products";
 
 export const metadata = {
-  title: "Products | Verenza Stainless Steel Bathroom Accessories",
+  title: "Shop Stainless Steel Bathroom Accessories | Verenza – Rajkot, Gujarat",
   description:
-    "Browse Verenza's full range of premium stainless steel bathroom accessories — towel rings, hangers, corner shelves, bath racks and kitchen organizers.",
+    "Browse Verenza's full range of premium stainless steel bathroom accessories — towel rings, hangers, corner shelves, bath racks and kitchen organizers — manufactured in Rajkot, Gujarat and supplied across India.",
   alternates: { canonical: "https://www.verenza.com/products" },
   openGraph: {
-    title: "Products | Verenza Stainless Steel Bathroom Accessories",
+    title: "Shop Stainless Steel Bathroom Accessories | Verenza – Rajkot, Gujarat",
     description:
-      "Browse Verenza's full range of premium stainless steel bathroom accessories — towel rings, hangers, corner shelves, bath racks and kitchen organizers.",
+      "Browse Verenza's full range of premium stainless steel bathroom accessories — towel rings, hangers, corner shelves, bath racks and kitchen organizers — manufactured in Rajkot, Gujarat and supplied across India.",
     images: [{ url: "/images/gallery/gallery12.jpg", width: 1600, height: 1280, alt: "Verenza product collection" }],
   },
 };
@@ -31,6 +31,7 @@ export default function ProductsPage() {
         tag="Full Catalogue"
         title="Our Products"
         breadcrumbLabel="Products"
+        breadcrumbPath="/products"
         sub="65+ stainless steel designs across six collections."
       />
 

@@ -409,6 +409,7 @@ body.nav-open .nav-overlay { visibility: visible; opacity: 1; }
 @media (max-width: 767px) {
   .hero-content-wrap { padding-bottom: 70px; }
   .hero-bottom-row { flex-direction: column; align-items: flex-start; gap: 22px; }
+  .hero-slide-img { object-position: left center; }
 }
 
 /* ===================== EDITORIAL SPLIT ===================== */
@@ -543,8 +544,8 @@ body.nav-open .nav-overlay { visibility: visible; opacity: 1; }
 .mosaic-item::after { content: ""; position: absolute; inset: 0; background: linear-gradient(0deg, rgba(var(--ink-rgb),0.55), transparent 45%); opacity: 0; transition: opacity 0.4s var(--ease); }
 .mosaic-item:hover::after { opacity: 1; }
 @media (max-width: 767px) {
-  .mosaic { grid-template-columns: repeat(2, 1fr); grid-auto-rows: 160px; }
-  .mosaic-item { grid-column: span 1 !important; grid-row: span 2 !important; }
+  .mosaic { grid-template-columns: repeat(2, 1fr); grid-auto-rows: auto; }
+  .mosaic-item { grid-column: span 1 !important; grid-row: span 1 !important; aspect-ratio: 1 / 1; }
 }
 
 /* ===================== CTA BAND ===================== */
@@ -554,7 +555,7 @@ body.nav-open .nav-overlay { visibility: visible; opacity: 1; }
 .cta-editorial .btn-row { justify-content: center; position: relative; z-index: 1; }
 
 /* ===================== PRODUCT GRID ===================== */
-.filter-tabs { display: flex; gap: clamp(16px, 2.4vw, 34px); flex-wrap: wrap; border-bottom: 1px solid var(--line); padding-bottom: 20px; margin-bottom: 50px; }
+.filter-tabs { display: flex; column-gap: clamp(16px, 2.4vw, 34px); row-gap: 16px; flex-wrap: wrap; border-bottom: 1px solid var(--line); padding-bottom: 20px; margin-bottom: 50px; }
 .filter-tabs button {
   font-size: 12px; font-weight: 600; letter-spacing: 1.5px; text-transform: uppercase; color: var(--ink-50);
   padding-bottom: 10px; position: relative; transition: color 0.3s var(--ease);
@@ -562,6 +563,10 @@ body.nav-open .nav-overlay { visibility: visible; opacity: 1; }
 .filter-tabs button::after { content: ""; position: absolute; left: 0; bottom: -21px; width: 0; height: 1px; background: var(--ink); transition: width 0.35s var(--ease); }
 .filter-tabs button.active, .filter-tabs button:hover { color: var(--ink); }
 .filter-tabs button.active::after { width: 100%; }
+@media (max-width: 767px) {
+  .filter-tabs { row-gap: 24px; }
+  .filter-tabs button::after { bottom: -12px; }
+}
 
 .product-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: clamp(24px, 2.4vw, 40px) clamp(20px, 2vw, 32px); }
 .product-card { display: block; }
@@ -700,7 +705,10 @@ textarea.f-input { resize: vertical; min-height: 90px; }
 .site-footer { background: var(--ink); color: rgba(255,255,255,0.7); padding-top: clamp(70px, 8vw, 120px); }
 .footer-cols { display: grid; grid-template-columns: 1.4fr 1fr 1fr 1fr; gap: 30px; padding: clamp(50px, 6vw, 80px) 0; border-bottom: 1px solid rgba(255,255,255,0.12); }
 .footer-brand p { max-width: 320px; font-size: 14px; color: rgba(255,255,255,0.55); margin-top: 18px; }
-.footer-brand .logo-footer { max-height: 64px; }
+.footer-brand .logo-footer { max-height: 64px; width: auto; }
+@media (max-width: 575px) {
+  .footer-brand .logo-footer { max-height: 42px; }
+}
 .footer-col h4 { font-size: 12px; letter-spacing: 2px; text-transform: uppercase; color: rgba(255,255,255,0.9); margin-bottom: 22px; font-weight: 600; }
 .footer-col ul li { margin-bottom: 12px; }
 .footer-col a { font-size: 14px; color: rgba(255,255,255,0.6); transition: color 0.3s var(--ease); }

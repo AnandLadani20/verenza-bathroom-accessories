@@ -4,14 +4,14 @@ import Reveal from "@/components/motion/Reveal";
 import RevealScale from "@/components/motion/RevealScale";
 
 export const metadata = {
-  title: "Contact Us | Verenza Stainless Steel Bathroom Accessories",
+  title: "Contact Us | Verenza – Rajkot, Gujarat",
   description:
-    "Get in touch with Verenza for product inquiries, bulk orders, and dealership opportunities for premium stainless steel bathroom accessories.",
+    "Get in touch with Verenza in Rajkot, Gujarat for product inquiries, bulk orders, and dealership opportunities for premium stainless steel bathroom accessories.",
   alternates: { canonical: "https://www.verenza.com/contact" },
   openGraph: {
-    title: "Contact Us | Verenza Stainless Steel Bathroom Accessories",
+    title: "Contact Us | Verenza – Rajkot, Gujarat",
     description:
-      "Get in touch with Verenza for product inquiries, bulk orders, and dealership opportunities for premium stainless steel bathroom accessories.",
+      "Get in touch with Verenza in Rajkot, Gujarat for product inquiries, bulk orders, and dealership opportunities for premium stainless steel bathroom accessories.",
     images: [{ url: "/images/gallery/gallery17.jpg", width: 1600, height: 1280, alt: "Verenza fitting close-up" }],
   },
 };
@@ -25,7 +25,8 @@ export default function ContactPage() {
         tag="Let's Talk"
         title="Contact Us"
         breadcrumbLabel="Contact Us"
-        sub="We reply within 24 hours."
+        breadcrumbPath="/contact"
+        sub="Visit our Rajkot, Gujarat facility, or reach out — we reply within 24 hours."
       />
 
       <section className="section">
@@ -65,10 +66,9 @@ export default function ContactPage() {
           <Reveal as="h2" className="display-2">Stay connected with Verenza</Reveal>
           <Reveal as="p" className="body-sub" style={{ margin: "0 auto 34px" }}>Follow us on social media for new launches, design inspiration and exclusive offers.</Reveal>
           <div className="footer-social" style={{ justifyContent: "center", display: "flex" }}>
-            <a href="#" aria-label="Facebook"><i className="fa-brands fa-facebook-f"></i></a>
-            <a href="#" aria-label="Instagram"><i className="fa-brands fa-instagram"></i></a>
-            <a href="#" aria-label="LinkedIn"><i className="fa-brands fa-linkedin-in"></i></a>
-            <a href="#" aria-label="YouTube"><i className="fa-brands fa-youtube"></i></a>
+            <a href="https://www.facebook.com/share/1EPrY4BtqT/" target="_blank" rel="noopener noreferrer" aria-label="Facebook"><i className="fa-brands fa-facebook-f"></i></a>
+            <a href="https://www.instagram.com/verenzaenterprise?igsh=d2J3NWhkNzEwaHM0&igsi=d2J3NWhkNzEwaHM0" target="_blank" rel="noopener noreferrer" aria-label="Instagram"><i className="fa-brands fa-instagram"></i></a>
+            <a href="https://www.youtube.com/@verenzaenterprise" target="_blank" rel="noopener noreferrer" aria-label="YouTube"><i className="fa-brands fa-youtube"></i></a>
           </div>
         </div>
       </section>

@@ -60,7 +60,23 @@ export default async function ProductDetailPage({ params }) {
       price: String(product.priceValue || "").replace(/[^0-9.]/g, "") || undefined,
       availability: "https://schema.org/InStock",
       url: `https://www.verenza.com/products/${product.id}`,
+      areaServed: [
+        { "@type": "City", name: "Rajkot" },
+        { "@type": "State", name: "Gujarat" },
+        { "@type": "Country", name: "India" },
+      ],
+      seller: { "@type": "LocalBusiness", "@id": "https://www.verenza.com/#organization", name: "Verenza Enterprise" },
     },
+  };
+
+  const breadcrumbJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Home", item: "https://www.verenza.com/" },
+      { "@type": "ListItem", position: 2, name: "Products", item: "https://www.verenza.com/products" },
+      { "@type": "ListItem", position: 3, name: product.name, item: `https://www.verenza.com/products/${product.id}` },
+    ],
   };
 
   return (
@@ -68,6 +84,10 @@ export default async function ProductDetailPage({ params }) {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(productJsonLd) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
       />
       <ProductDetailView product={product} related={related} />
     </>

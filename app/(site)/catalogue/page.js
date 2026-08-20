@@ -25,6 +25,7 @@ export default function CataloguePage() {
         tag="Complete Product Range"
         title="Catalogue"
         breadcrumbLabel="Catalogue"
+        breadcrumbPath="/catalogue"
         sub="Specifications, dimensions and finish options in one PDF."
       />
 

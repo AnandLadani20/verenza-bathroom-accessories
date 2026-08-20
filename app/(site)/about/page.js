@@ -7,14 +7,14 @@ import { Stagger, StaggerItem } from "@/components/motion/Stagger";
 import MagneticButton from "@/components/motion/MagneticButton";
 
 export const metadata = {
-  title: "About Us | Verenza Stainless Steel Bathroom Accessories",
+  title: "About Us | Verenza – Stainless Steel Accessories Manufacturer in Rajkot, Gujarat",
   description:
-    "Learn about Verenza — a premium stainless steel bathroom and kitchen accessories manufacturer focused on design, durability, and craftsmanship.",
+    "Learn about Verenza — a Rajkot, Gujarat-based premium stainless steel bathroom and kitchen accessories manufacturer focused on design, durability, and craftsmanship.",
   alternates: { canonical: "https://www.verenza.com/about" },
   openGraph: {
-    title: "About Us | Verenza Stainless Steel Bathroom Accessories",
+    title: "About Us | Verenza – Stainless Steel Accessories Manufacturer in Rajkot, Gujarat",
     description:
-      "Learn about Verenza — a premium stainless steel bathroom and kitchen accessories manufacturer focused on design, durability, and craftsmanship.",
+      "Learn about Verenza — a Rajkot, Gujarat-based premium stainless steel bathroom and kitchen accessories manufacturer focused on design, durability, and craftsmanship.",
     images: [{ url: "/images/gallery/gallery7.jpg", width: 1600, height: 1280, alt: "Verenza premium bathroom interior" }],
   },
 };
@@ -28,7 +28,8 @@ export default function AboutPage() {
         tag="Who We Are"
         title="About Verenza"
         breadcrumbLabel="About Us"
-        sub="Precision engineering in stainless steel."
+        breadcrumbPath="/about"
+        sub="Precision engineering in stainless steel, proudly made in Rajkot, Gujarat."
       />
 
       {/* ===================== OUR STORY ===================== */}
@@ -36,7 +37,7 @@ export default function AboutPage() {
         <div className="container">
           <div className="split-editorial">
             <div className="g-start-1"><span className="tag">Our Story</span></div>
-            <Reveal as="p" className="lede">What started as a small manufacturing unit has grown into a trusted brand known for <em>precision engineering</em>, modern aesthetics and lasting quality.</Reveal>
+            <Reveal as="p" className="lede">What started as a small manufacturing unit in Rajkot, Gujarat has grown into a trusted brand known for <em>precision engineering</em>, modern aesthetics and lasting quality.</Reveal>
             <Reveal as="div" className="side">
               <p className="body-sub">Today, our catalogue spans towel rings, decorative hangers, corner shelves, bath racks and kitchen organizers — each piece designed in-house and finished to a flawless mirror shine using 202 & 304-grade stainless steel.</p>
               <Link href="/contact" className="btn-line" style={{ marginTop: "22px" }}>Partner With Us <i className="fa-solid fa-arrow-right"></i></Link>

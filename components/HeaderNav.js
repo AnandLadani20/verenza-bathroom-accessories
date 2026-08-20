@@ -110,9 +110,9 @@ export default function HeaderNav() {
         <div className="nav-overlay-foot">
           <span>&copy; {year} Verenza Enterprise</span>
           <div className="socials">
-            <a href="#" aria-label="Facebook" onClick={() => setNavOpen(false)}><i className="fa-brands fa-facebook-f"></i></a>
-            <a href="#" aria-label="Instagram" onClick={() => setNavOpen(false)}><i className="fa-brands fa-instagram"></i></a>
-            <a href="#" aria-label="LinkedIn" onClick={() => setNavOpen(false)}><i className="fa-brands fa-linkedin-in"></i></a>
+            <a href="https://www.facebook.com/share/1EPrY4BtqT/" target="_blank" rel="noopener noreferrer" aria-label="Facebook" onClick={() => setNavOpen(false)}><i className="fa-brands fa-facebook-f"></i></a>
+            <a href="https://www.instagram.com/verenzaenterprise?igsh=d2J3NWhkNzEwaHM0&igsi=d2J3NWhkNzEwaHM0" target="_blank" rel="noopener noreferrer" aria-label="Instagram" onClick={() => setNavOpen(false)}><i className="fa-brands fa-instagram"></i></a>
+            <a href="https://www.youtube.com/@verenzaenterprise" target="_blank" rel="noopener noreferrer" aria-label="YouTube" onClick={() => setNavOpen(false)}><i className="fa-brands fa-youtube"></i></a>
           </div>
         </div>
       </div>

@@ -25,6 +25,7 @@ export default function GalleryPage() {
         tag="Visual Showcase"
         title="Gallery"
         breadcrumbLabel="Gallery"
+        breadcrumbPath="/gallery"
         sub="Click any image to view it in full size."
       />
 

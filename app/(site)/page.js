@@ -9,9 +9,9 @@ import MagneticButton from "@/components/motion/MagneticButton";
 import { getFeaturedProducts, getCategoryMeta } from "@/lib/products";
 
 export const metadata = {
-  title: "Verenza | Premium Stainless Steel Bathroom Accessories",
+  title: "Verenza | Stainless Steel Bathroom Accessories Manufacturer in Rajkot, Gujarat",
   description:
-    "Verenza designs and manufactures premium stainless steel bathroom accessories — towel rings, racks, shelves and kitchen organizers crafted for modern homes.",
+    "Verenza is a Rajkot, Gujarat-based manufacturer of premium stainless steel bathroom accessories — towel rings, racks, shelves and kitchen organizers — supplying dealers and homes across Gujarat and India.",
   alternates: { canonical: "https://www.verenza.com/" },
 };
 
@@ -85,7 +85,7 @@ export default function HomePage() {
             </div>
             <Reveal as="p" className="lede">Verenza brings <em>precision engineering</em> to every bathroom — blending 202 & 304-grade stainless steel with a design language built for modern living.</Reveal>
             <Reveal as="div" className="side">
-              <p className="body-sub">We blend modern aesthetics with industrial-grade durability, bringing premium quality into everyday spaces across India.</p>
+              <p className="body-sub">Manufactured in Rajkot, Gujarat, we blend modern aesthetics with industrial-grade durability, bringing premium quality into everyday spaces across Gujarat and India.</p>
               <Link href="/about" className="btn-line" style={{ marginTop: "22px" }}>Our Story <i className="fa-solid fa-arrow-right"></i></Link>
             </Reveal>
           </div>

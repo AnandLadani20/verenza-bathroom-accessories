@@ -139,7 +139,7 @@ export default function HomePage() {
         </div>
       </section>
 
-      <StatsBand bgImage="/images/gallery/gallery14.jpg" bgAlt="Verenza stainless steel manufacturing" tag="By The Numbers" />
+      <StatsBand bgImage="/images/gallery/gallery14.png" bgAlt="Verenza stainless steel manufacturing" tag="By The Numbers" />
 
       {/* ===================== GALLERY PREVIEW ===================== */}
       <section className="section">

@@ -15,7 +15,7 @@ export const metadata = {
     title: "About Us | Verenza – Stainless Steel Accessories Manufacturer in Rajkot, Gujarat",
     description:
       "Learn about Verenza — a Rajkot, Gujarat-based premium stainless steel bathroom and kitchen accessories manufacturer focused on design, durability, and craftsmanship.",
-    images: [{ url: "/images/gallery/gallery7.jpg", width: 1600, height: 1280, alt: "Verenza premium bathroom interior" }],
+    images: [{ url: "/images/gallery/gallery7.png", width: 1600, height: 1280, alt: "Verenza premium bathroom interior" }],
   },
 };
 
@@ -23,7 +23,7 @@ export default function AboutPage() {
   return (
     <>
       <Masthead
-        img="/images/gallery/gallery7.jpg"
+        img="/images/gallery/gallery7.png"
         alt="Verenza premium bathroom interior"
         tag="Who We Are"
         title="About Verenza"
@@ -89,7 +89,7 @@ export default function AboutPage() {
         </div>
       </section>
 
-      <StatsBand bgImage="/images/gallery/gallery20.jpg" bgAlt="Verenza stainless steel manufacturing" tag="Verenza By The Numbers" />
+      <StatsBand bgImage="/images/gallery/gallery13.jpg" bgAlt="Verenza stainless steel manufacturing" tag="Verenza By The Numbers" />
 
       {/* ===================== CTA ===================== */}
       <section className="cta-editorial bg-deep">

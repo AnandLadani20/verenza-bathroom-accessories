@@ -12,7 +12,7 @@ export const metadata = {
     title: "Gallery | Verenza Stainless Steel Bathroom Accessories",
     description:
       "Explore Verenza's photo gallery showcasing our premium stainless steel bathroom and kitchen accessory collections in detail.",
-    images: [{ url: "/images/gallery/gallery16.jpg", width: 1600, height: 1280, alt: "Verenza bathroom lifestyle" }],
+    images: [{ url: "/images/gallery/gallery16.png", width: 1600, height: 1280, alt: "Verenza bathroom lifestyle" }],
   },
 };
 
@@ -20,7 +20,7 @@ export default function GalleryPage() {
   return (
     <>
       <Masthead
-        img="/images/gallery/gallery16.jpg"
+        img="/images/gallery/gallery8.jpg"
         alt="Verenza bathroom lifestyle"
         tag="Visual Showcase"
         title="Gallery"

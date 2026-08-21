@@ -8,7 +8,6 @@ import "../admin.css";
 const NAV_ITEMS = [
   { href: "/admin", label: "Dashboard" },
   { href: "/admin/inquiries", label: "Inquiries" },
-  { href: "/admin/visitors", label: "Visitors" },
   { href: "/admin/clients", label: "Clients" },
   { href: "/admin/purchases", label: "Purchases" },
   { href: "/admin/sales", label: "Sales" },

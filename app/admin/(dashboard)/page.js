@@ -29,7 +29,7 @@ export default function DashboardPage() {
   if (error) return <div className="admin-alert admin-alert-error">{error}</div>;
   if (!data) return <div className="admin-loading">Loading dashboard...</div>;
 
-  const { inquiries, clients, visitors, finance, monthly } = data;
+  const { inquiries, clients, finance, monthly } = data;
 
   return (
     <div>
@@ -49,18 +49,6 @@ export default function DashboardPage() {
         <div className="admin-stat-card">
           <div className="label">Total Clients</div>
           <div className="value">{clients.total}</div>
-        </div>
-        <div className="admin-stat-card">
-          <div className="label">Total Visitors</div>
-          <div className="value">{visitors.total}</div>
-        </div>
-        <div className="admin-stat-card">
-          <div className="label">Unique Visitors</div>
-          <div className="value">{visitors.unique}</div>
-        </div>
-        <div className="admin-stat-card">
-          <div className="label">Visitors Today</div>
-          <div className="value">{visitors.today}</div>
         </div>
         <div className="admin-stat-card">
           <div className="label">Total Purchase Amount</div>

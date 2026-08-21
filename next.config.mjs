@@ -1,9 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  serverExternalPackages: ["mongoose", "geoip-lite"],
-  outputFileTracingIncludes: {
-    "/api/**": ["./node_modules/geoip-lite/data/**"],
-  },
+  serverExternalPackages: ["mongoose"],
 };
 
 export default nextConfig;

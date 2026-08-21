@@ -4,7 +4,6 @@ import Inquiry from "@/models/Inquiry";
 import Client from "@/models/Client";
 import Purchase from "@/models/Purchase";
 import Sale from "@/models/Sale";
-import Visitor from "@/models/Visitor";
 import { getAdminFromCookies } from "@/lib/auth";
 
 function monthlyTotals(model, amountField = "amount") {
@@ -27,22 +26,12 @@ export async function GET() {
 
   await dbConnect();
 
-  const startOfToday = new Date();
-  startOfToday.setHours(0, 0, 0, 0);
-  const startOfMonth = new Date();
-  startOfMonth.setDate(1);
-  startOfMonth.setHours(0, 0, 0, 0);
-
   const [
     totalInquiries,
     newInquiries,
     totalClients,
     purchaseAgg,
     saleAgg,
-    totalVisitors,
-    uniqueVisitorIds,
-    visitorsToday,
-    visitorsThisMonth,
     purchaseMonthly,
     saleMonthly,
   ] = await Promise.all([
@@ -51,10 +40,6 @@ export async function GET() {
     Client.countDocuments(),
     Purchase.aggregate([{ $group: { _id: null, total: { $sum: "$amount" }, count: { $sum: 1 } } }]),
     Sale.aggregate([{ $group: { _id: null, total: { $sum: "$amount" }, count: { $sum: 1 } } }]),
-    Visitor.countDocuments(),
-    Visitor.distinct("visitorId"),
-    Visitor.countDocuments({ createdAt: { $gte: startOfToday } }),
-    Visitor.countDocuments({ createdAt: { $gte: startOfMonth } }),
     monthlyTotals(Purchase),
     monthlyTotals(Sale),
   ]);
@@ -81,12 +66,6 @@ export async function GET() {
   return NextResponse.json({
     inquiries: { total: totalInquiries, new: newInquiries },
     clients: { total: totalClients },
-    visitors: {
-      total: totalVisitors,
-      unique: uniqueVisitorIds.length,
-      today: visitorsToday,
-      thisMonth: visitorsThisMonth,
-    },
     finance: {
       totalPurchaseAmount,
       totalSaleAmount,
